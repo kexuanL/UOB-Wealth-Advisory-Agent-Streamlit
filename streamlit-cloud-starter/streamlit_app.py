@@ -8,8 +8,8 @@ from datetime import datetime
 from pathlib import Path
 
 st.set_page_config(page_title="Wealth Advisor Dashboard", layout="wide")
-DATA_PATH    = Path("data/asset_recommendations.json")
-SUMMARY_PATH = Path("data/all_articles.jsonl")
+DATA_PATH    = Path("streamlit-cloud-starter/data/asset_recommendations.json")
+SUMMARY_PATH = Path("streamlit-cloud-starter/data/all_articles.jsonl")
 
 # ────────────────────────── Helpers ──────────────────────────
 @st.cache_data
