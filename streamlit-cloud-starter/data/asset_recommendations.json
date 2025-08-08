@@ -1,0 +1,40 @@
+{
+  "Commodities": {
+    "Gold": {
+      "asset": "Gold",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.86,
+      "summary": "Gold supported by declining real yields and central-bank demand.",
+      "evidence": [
+        {
+          "content": "Central bank purchases remained strong in Q2 and real yields eased.",
+          "sentiment": "bullish",
+          "sentiment score": 0.9,
+          "source": "Sample Research",
+          "title": "Gold drivers update",
+          "url": "https://example.com/gold",
+          "date": "2025-07-30"
+        }
+      ]
+    }
+  },
+  "U.S. Assets": {
+    "U.S. Equities": {
+      "asset": "U.S. Equities",
+      "overall sentiment": "HOLD",
+      "overall sentiment score": 0.15,
+      "summary": "Positioning elevated; earnings resilient but breadth narrow.",
+      "evidence": [
+        {
+          "content": "Mega-cap leadership persists; small caps lag.",
+          "sentiment": "neutral",
+          "sentiment score": 0.2,
+          "source": "Sample Desk",
+          "title": "US equity breadth",
+          "url": "",
+          "date": "2025-07-25"
+        }
+      ]
+    }
+  }
+}
