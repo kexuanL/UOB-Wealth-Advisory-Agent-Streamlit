@@ -3,36 +3,1907 @@
     "Gold": {
       "asset": "Gold",
       "overall sentiment": "BUY",
-      "overall sentiment score": 0.86,
-      "summary": "Gold supported by declining real yields and central-bank demand.",
+      "overall sentiment score": 0.8888888888888888,
+      "summary": "The overall sentiment for Gold is strongly bullish, indicating a 'BUY' recommendation. This assessment is based on multiple pieces of evidence highlighting Gold's role as a safe-haven asset, a long-term portfolio diversifier, and a central component in investment strategies amidst geopolitical and economic uncertainties. Several sources anticipate increased demand and record prices for Gold due to factors such as persistent inflation, geopolitical shifts, and de-dollarization. The recent surge in Gold prices due to haven demand further reinforces this positive outlook. Investors are advised to consider Gold for portfolio resilience and as a hedge against various risks.",
       "evidence": [
         {
-          "content": "Central bank purchases remained strong in Q2 and real yields eased.",
+          "content": "Willem Sels (Unknown Role, HSBC): Diversification has proven effective; bonds and gold benefited from safe-haven flows while equities declined, and the US dollar maintained its safe-haven status despite concerns over deficits.",
+          "reason": "The mention of gold benefiting from safe-haven flows indicates a bullish outlook, as it suggests increased demand for gold during times of market uncertainty.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "HSBC",
+          "title": "Lessons from the conflict: building resilience through diversification is key,and it works – Monthly View – July 2025",
+          "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/video-transcripts/monthly-view/2025/monthly-view-july-2025-transcript.pdf",
+          "date": "2025-06-26"
+        },
+        {
+          "content": "Financial Analyst (unspecified publication): Investors in gold-related assets (ETFs, mutual funds) should assess gold's recent and longer-term performance, emphasizing the importance of understanding risks associated with these investments.",
+          "reason": "While this content highlights the need for risk assessment, it does not present a clear bullish or bearish sentiment, making it neutral regarding gold's future performance.",
+          "sentiment score": 0,
+          "sentiment": "Neutral",
+          "source": "Citibank",
+          "title": "What role might gold play in portfolios?",
+          "url": "https://www.privatebank.citibank.com/insights/what-role-might-gold-play-in-portfolios",
+          "date": "2025-07-07"
+        },
+        {
+          "content": "Gold is viewed as a long-term portfolio diversifier amid fiscal and geopolitical risks, with a year-end target of USD 3,500/oz.",
+          "reason": "The positive price target and characterization of gold as a diversifier amid risks suggest a bullish sentiment towards gold's future performance.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "UBS",
+          "title": "Gold Market (Investment Analysts, Gold Market)",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-04072025.onlycontent.html",
+          "date": "2025-07-04"
+        },
+        {
+          "content": "Gold and technology equities are central to investment strategies, alongside investment-grade credit for income.",
+          "reason": "The emphasis on gold as a central component of investment strategies indicates a bullish outlook for its role in portfolios.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "CIO Insights 3Q25: The Global Pivot",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/062025/CIOInsights3Q25.xml",
+          "date": "2025-06-26"
+        },
+        {
+          "content": "DBS (Analyst team, DBS): Gold is anticipated to gain traction as a safe-haven asset amid rising geopolitical uncertainty, with short-term demand driven by this uncertainty and long-term appeal bolstered by de-dollarization and fiat currency debasement.",
+          "reason": "The expectation of increased demand for gold due to geopolitical uncertainty and economic factors presents a strong bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Thematic 3Q25 - New World Order",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_Thematic.xml",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**Jean Chia (Global Chief Investment Officer, Bank of Singapore):** Expect persistent inflation, higher interest rates, a weaker USD, record gold prices, and increased demand for safe-haven assets over the next five to ten years due to geopolitical shifts.",
+          "reason": "The forecast of record gold prices and increased demand due to inflation and geopolitical shifts indicates a very bullish sentiment for gold.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "OCBC",
+          "title": "2025 Supertrends: Rethinking Portfolios, Reimagining the World",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/wealth-insights",
+          "date": "2025-07-01"
+        },
+        {
+          "content": "**DBS (Research Team, DBS Bank):** Advocates for a defensive investment strategy, focusing on alternatives like gold and income-generating private assets to ensure portfolio resilience amid a global shift from US financial asset dominance.",
+          "reason": "The advocacy for gold as part of a defensive investment strategy suggests a bullish sentiment towards its role in maintaining portfolio resilience.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Asset Allocation 3Q25 – Everything Everywhere All at Once",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_AA.xml",
+          "date": "2025-07-04"
+        },
+        {
+          "content": "**Investment Strategy: Deploy cash into quality bonds and diversified income strategies to enhance yield and improve income durability; gold is recommended as a hedge against geopolitical risks.",
+          "reason": "The recommendation of gold as a hedge against geopolitical risks indicates a bullish sentiment, as it suggests confidence in gold's protective qualities.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "UBS",
+          "title": "A close look at this week’s trending topic",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/2025/weekly-deep-dive.onlycontent.html",
+          "date": "2025-06-30"
+        },
+        {
+          "content": "**Gold Market:** Gold prices surged 1.4%, marking the largest increase in six weeks due to haven demand.",
+          "reason": "The significant price surge due to haven demand is a clear bullish indicator for gold's market performance.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Another steep DXY decline hindered by JPY and EUR uncertainties",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_fx.xml",
+          "date": "2025-07-22"
+        }
+      ]
+    },
+    "Silver": {
+      "asset": "Silver",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 1.0,
+      "summary": "The overall sentiment for Silver is BUY, driven by strong bullish indicators from multiple financial institutions. OCBC, UBS, DBS Bank, and Goldman Sachs all highlight the importance of gold (and by extension, other precious metals like silver) as a defensive asset, a hedge against geopolitical risks, and a key component of diversified, resilient portfolios. Goldman Sachs specifically notes a bullish outlook for gold due to surging central bank demand, which positively influences the sentiment for silver given their correlated market behavior. These factors collectively suggest a favorable environment for silver, positioning it as a strategic investment for capital preservation and growth amidst market uncertainties.",
+      "evidence": [
+        {
+          "content": "**Jean Chia (Global Chief Investment Officer, Bank of Singapore):** A robust asset allocation strategy is essential, emphasizing resilience over precise predictions, with diversification into alternatives and gold for downside protection.",
+          "reason": "The mention of diversification into gold as a protective measure indicates a bullish sentiment towards precious metals, including silver, as a safe haven during uncertain times.",
+          "sentiment score": 1,
           "sentiment": "bullish",
-          "sentiment score": 0.9,
-          "source": "Sample Research",
-          "title": "Gold drivers update",
-          "url": "https://example.com/gold",
-          "date": "2025-07-30"
+          "source": "OCBC",
+          "title": "2025 Supertrends: Rethinking Portfolios, Reimagining the World",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/wealth-insights"
+        },
+        {
+          "content": "**Investment Strategy: Deploy cash into quality bonds and diversified income strategies to enhance yield and improve income durability; gold is recommended as a hedge against geopolitical risks.",
+          "reason": "The recommendation to use gold as a hedge against geopolitical risks suggests a positive outlook for precious metals, including silver, as investors seek safety in uncertain environments.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "UBS",
+          "title": "A close look at this week’s trending topic",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/2025/weekly-deep-dive.onlycontent.html"
+        },
+        {
+          "content": "**DBS (Research Team, DBS Bank):** Advocates for a defensive investment strategy, focusing on alternatives like gold and income-generating private assets to ensure portfolio resilience amid a global shift from US financial asset dominance.",
+          "reason": "The advocacy for gold and alternatives as part of a defensive strategy indicates a bullish sentiment towards precious metals, including silver, as investors seek stability in their portfolios.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Asset Allocation 3Q25 – Everything Everywhere All at Once",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_AA.xml"
+        },
+        {
+          "content": "**Daan Struyven (Co-Head, Global Commodities Research, Head of Oil Research, Goldman Sachs Research):** Remains bullish on gold, expecting it to rise to $4,000 per troy ounce driven by increased central bank demand, which has surged five-fold since 2022. A survey indicates record high purchase intentions among central banks, with none planning to reduce gold holdings in the next year.",
+          "reason": "The bullish outlook on gold, driven by central bank demand, suggests a positive sentiment for silver as well, given their historical correlation as precious metals.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "GoldmanSachs",
+          "title": "Global Income Plays",
+          "url": "https://www.goldmansachs.com/insights/the-markets/global-income-plays"
+        }
+      ]
+    },
+    "Crude Oil": {
+      "asset": "Crude Oil",
+      "overall sentiment": "HOLD",
+      "overall sentiment score": 0.0,
+      "summary": "The overall sentiment for Crude Oil is HOLD, as the average sentiment score from the provided evidence is 0.0. This indicates a balanced outlook with both bullish and bearish factors at play. Bearish factors include geopolitical tensions causing price volatility and expectations of oil prices falling back to lower levels due to a potential Iran-Israel ceasefire, OPEC+ support, and seasonal demand drops. Bullish factors include a potential shift in US energy policy towards being more fossil-fuel friendly, posing upside risks for oil prices, and the stability in oil flow through the Strait of Hormuz due to Iran's muted response and incentives for the US and China. Given these conflicting signals, a HOLD strategy is recommended, suggesting investors maintain their current positions and monitor market developments closely.",
+      "evidence": [
+        {
+          "content": "**Daan Struyven (Co-Head, Global Commodities Research, Head of Oil Research, Goldman Sachs Research):** Geopolitical tensions in the Middle East have caused oil price volatility, with the geopolitical risk premium spiking to over $15 per barrel before dropping to a couple of dollars within 24 hours.",
+          "reason": "The mention of high volatility and a significant geopolitical risk premium suggests uncertainty in the market, which can lead to bearish sentiment as it indicates potential for price drops.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "GoldmanSachs",
+          "title": "Global Income Plays",
+          "url": "https://www.goldmansachs.com/insights/the-markets/global-income-plays",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**DBS (Research Team, DBS):** Expects a shift in US energy policy to become more fossil-fuel friendly, posing upside risks for oil prices as supply is set to grow.",
+          "reason": "The expectation of a shift towards a more fossil-fuel friendly policy in the US indicates potential for increased demand and higher prices, which is a bullish signal for crude oil.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Asset Allocation - The Era of Big Beautiful Fiscal Excesses",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250708CIOP.xml",
+          "date": "2025-07-08"
+        },
+        {
+          "content": "**Daan Struyven (Co-Head, Global Commodities Research, Head of Oil Research, Goldman Sachs Research):** Iran's muted response and incentives for the US and China to maintain oil flow through the Strait of Hormuz are key to current market dynamics.",
+          "reason": "The stability in oil flow through a critical passage like the Strait of Hormuz, combined with Iran's muted response, suggests a more stable supply environment, which can be interpreted as a bullish factor for crude oil prices.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "GoldmanSachs",
+          "title": "Global Income Plays",
+          "url": "https://www.goldmansachs.com/insights/the-markets/global-income-plays",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**OCBC Bank (Analyst team, OCBC Bank):** Oil prices are expected to fall back to pre-June 13 levels in the mid-US$60s/barrel if the Iran-Israel ceasefire holds, with Brent oil potentially revisiting US$60/barrel, supported by OPEC+ and seasonal demand drops.",
+          "reason": "The expectation of falling oil prices back to lower levels indicates bearish sentiment, as it suggests a decline in demand or oversupply in the market.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "OCBC",
+          "title": "Back to fundamentals after geopolitical tensions ease",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/fx-and-commodities",
+          "date": "2025-07-01"
         }
       ]
     }
   },
+  "Blockchain": {
+    "Cryptocurrency": {
+      "asset": "Cryptocurrency",
+      "overall sentiment": "",
+      "overall sentiment score": null,
+      "summary": "No information relates to the asset found",
+      "evidence": []
+    }
+  },
   "U.S. Assets": {
-    "U.S. Equities": {
-      "asset": "U.S. Equities",
-      "overall sentiment": "HOLD",
-      "overall sentiment score": 0.15,
-      "summary": "Positioning elevated; earnings resilient but breadth narrow.",
+    "U.S. Stock": {
+      "asset": "U.S. Stock",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.25,
+      "summary": "The overall sentiment for U.S. Stocks is BUY, driven by several bullish indicators. The U.S. economy remains robust, with healthy industrial production growth, rising retail sales, and increasing non-farm payrolls. Investment teams are showing confidence in U.S. assets, preferring U.S. agency MBS over Treasuries. Furthermore, there's a recommendation to gradually increase exposure to diversified global stocks, including U.S. stocks, for stronger future returns. The S&P 500 reaching a new record high, propelled by strong performance from leading tech firms, further reinforces this positive outlook. Renewed foreign buying of U.S. assets also signals confidence. While there are some neutral factors like sticky inflation limiting rate cuts and upcoming economic reports, and bearish signals such as Chinese stocks outperforming U.S. shares and potential trade tensions, the prevailing evidence points towards a positive trajectory for U.S. stocks. Therefore, a 'BUY' recommendation is appropriate, with a strategy to maintain a balanced and diversified portfolio to navigate potential volatility.",
       "evidence": [
         {
-          "content": "Mega-cap leadership persists; small caps lag.",
+          "content": "Markets: Pricing in multiple Federal Reserve rate cuts over the next year, yet sticky inflation limits rate cuts.",
+          "reason": "The expectation of rate cuts is generally bullish for stocks as it can lead to lower borrowing costs and stimulate investment, but the mention of sticky inflation introduces uncertainty, making the overall sentiment more cautious.",
+          "sentiment score": 0,
           "sentiment": "neutral",
-          "sentiment score": 0.2,
-          "source": "Sample Desk",
-          "title": "US equity breadth",
-          "url": "",
-          "date": "2025-07-25"
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#market-commentary",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "Investment Team (Report): Overweight on U.S. agency MBS, considering the income compelling and preferring them over U.S. Treasuries for high-quality fixed income exposure.",
+          "reason": "The preference for U.S. agency MBS over Treasuries suggests a positive outlook on U.S. assets, indicating confidence in the U.S. economy and potentially bullish sentiment towards U.S. stocks.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "US economy remains robust, with June industrial production growth at 0.3%, retail sales (excluding cars and fuel) up 0.5%, and non-farm payrolls increasing by 147,000.",
+          "reason": "Strong economic indicators such as industrial production growth and rising retail sales are bullish signals for U.S. stocks, suggesting a healthy economy that supports stock performance.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – The dog that didn’t bite",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-the-dog-that-didnt-bite/",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "Chinese stocks have outperformed US shares since June, reflecting investor confidence in Beijing's stimulus measures and China's Q2 year-on-year growth of 5.2%.",
+          "reason": "The outperformance of Chinese stocks may indicate a shift in investor sentiment away from U.S. stocks, which could be seen as a bearish signal for U.S. stock performance.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – Has the ebb tide for US assets turned?",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-has-the-ebb-tide-for-us-assets-turned/",
+          "date": "2025-07-23"
+        },
+        {
+          "content": "S&P 500 futures dipped 0.1% following tariff announcements, indicating a slight decline in investor sentiment.",
+          "reason": "The dip in S&P 500 futures suggests bearish sentiment among investors, likely due to concerns over tariffs impacting market performance.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Stocks have room to rise despite tariff-induced volatility",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-09072025.onlycontent.html",
+          "date": "2025-07-09"
+        },
+        {
+          "content": "It is recommended to gradually increase exposure to diversified global stocks or balanced portfolios to position for stronger potential returns in 2026 and beyond.",
+          "reason": "This recommendation to increase exposure to stocks suggests a bullish outlook for the future performance of U.S. stocks as part of a diversified strategy.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "UBS",
+          "title": "Markets await more trade news after US-Vietnam deal",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-03072025.onlycontent.html",
+          "date": "2025-07-03"
+        },
+        {
+          "content": "Upcoming economic reports, including the producer price index and retail sales, will be crucial for assessing the US economy and the Federal Reserve's potential policy moves.",
+          "reason": "The focus on upcoming economic reports indicates uncertainty, which could lead to cautious sentiment among investors regarding U.S. stocks.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "UBS",
+          "title": "Tariffs begin to impact US inflation",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-16072025.onlycontent.html",
+          "date": "2025-07-16"
+        },
+        {
+          "content": "A balanced and diversified investment strategy across the AI value chain is recommended to navigate upcoming market volatility.",
+          "reason": "This recommendation suggests a proactive approach to investing in U.S. stocks, indicating a bullish sentiment towards their potential performance amidst volatility.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "UBS",
+          "title": "Tech stocks have more to go despite all-time highs",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-01072025.onlycontent.html",
+          "date": "2025-07-01"
+        },
+        {
+          "content": "Tightened work requirements for Medicaid and Supplemental Nutrition Assistance Program (SNAP), potentially affecting millions' access to health and food benefits.",
+          "reason": "Changes in fiscal policy could have mixed effects on consumer spending and economic growth, leading to uncertainty in the stock market.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "HSBC",
+          "title": "Market Update - US equity investors get fiscal policy clarity, while awaiting results from tariff agreements",
+          "url": "https://www.privatebanking.hsbc.com/wih/investments-Insights/market-update/market-update-us-equity-investors-get-fiscal-policy-clarity.html",
+          "date": "2025-07-04"
+        },
+        {
+          "content": "S&P 500 (Market Report): Reached a new record high, surpassing 6,300, driven by the 'Magnificent 7' tech firms' strong performance, marking their best run since 2023.",
+          "reason": "The new record high for the S&P 500 indicates strong bullish sentiment and confidence in the performance of U.S. stocks, particularly driven by leading tech firms.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "UBS",
+          "title": "Positioning beyond near-term volatility",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-22072025.onlycontent.html",
+          "date": "2025-07-22"
+        },
+        {
+          "content": "There is a non-negligible risk of escalating trade tensions between the EU and the US, which could negatively impact both economies.",
+          "reason": "The potential for escalating trade tensions introduces bearish sentiment as it could adversely affect U.S. stock performance.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Trump tests market optimism over trade",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-14072025.onlycontent.html",
+          "date": "2025-07-14"
+        },
+        {
+          "content": "Despite a prior sell-off, foreign buying of US assets has renewed, although the dollar remains weak.",
+          "reason": "Renewed foreign buying of U.S. assets is a bullish indicator, suggesting confidence in U.S. stocks despite a weak dollar.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – Has the ebb tide for US assets turned?",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-has-the-ebb-tide-for-us-assets-turned/",
+          "date": "2025-07-23"
+        }
+      ]
+    },
+    "USD": {
+      "asset": "USD",
+      "overall sentiment": "SELL",
+      "overall sentiment score": -1.0,
+      "summary": "The overall sentiment for the USD is SELL, primarily driven by a confluence of factors indicating sustained downward pressure. Multiple sources highlight concerns over persistent US deficits and a rising debt load, which are expected to weaken the dollar. Expectations of Federal Reserve rate cuts, coupled with sticky inflation, further contribute to a bearish outlook. The weaker growth outlook for the U.S. economy is also anticipated to maintain downward pressure on the USD. The DXY Index, while showing some consolidation, has not significantly recovered from previous lows, reinforcing the bearish trend. Concerns regarding the Federal Reserve's credibility and independence, particularly in light of potential political influence on monetary policy, are also weighing on market perceptions. Despite some renewed foreign buying of US assets, the dollar remains weak. Furthermore, the anticipated appreciation of the Euro against the USD and the expectation of USD weakness driving discounts in other currencies like the SGD, all point to a continued decline in the dollar's value. The significant weakening of the USD year-to-date, attributed to aggressive tariff policies and fiscal issues, and the expectation that other currencies will outperform it, solidify the SELL recommendation. Even temporary appreciations of the DXY Index are seen within a broader bearish context of Fed cut expectations and inflation.",
+      "evidence": [
+        {
+          "content": "**US Dollar (Currency Analysts, US Dollar):** Sustained deficits near 7% of GDP and a rising debt load are expected to pressure the US dollar, prompting recommendations to reduce excess US dollar cash and diversify into currencies like the euro and Australian dollar.",
+          "reason": "The mention of sustained deficits and rising debt load indicates a bearish outlook for the USD, as these factors typically lead to depreciation of the currency.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Republicans push through Trump’s One Big Beautiful Bill",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-04072025.onlycontent.html",
+          "date": "2025-07-04"
+        },
+        {
+          "content": "**Markets: Pricing in multiple Federal Reserve rate cuts over the next year, yet sticky inflation limits rate cuts.**",
+          "reason": "The expectation of multiple rate cuts by the Federal Reserve typically signals a bearish sentiment for the USD, as lower interest rates can lead to a weaker currency.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#market-commentary",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**U.S. Economic Outlook (General Observation): Weaker growth outlook expected to maintain downward pressure on the U.S. dollar and Treasury bond yields.",
+          "reason": "A weaker growth outlook is a strong indicator of bearish sentiment for the USD, as it suggests reduced demand for the currency.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – The US Treasury yield/dollar value conundrum",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-the-us-treasury-yield-dollar-value-conundrum/",
+          "date": "2025-07-02"
+        },
+        {
+          "content": "**DXY Index (Market Indicator): Consolidated in a 98-99 range last week after rising from a low of 96.4 on July 1.**",
+          "reason": "While the DXY Index shows some consolidation, the overall context suggests a bearish trend as it has not significantly recovered from previous lows.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Gripped by politics and trade crosswinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250721_fx.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**Scott Bessent (US Treasury Secretary, US Treasury):** Urged a comprehensive institutional review of the Federal Reserve, raising concerns about its credibility and increasing expectations for interest rate cuts. His alignment of Fed policy with President Trump’s fiscal and tariff agenda suggests a potential threat to the Fed’s independence, complicating market perceptions of monetary governance.",
+          "reason": "Concerns about the Federal Reserve's credibility and potential interest rate cuts are bearish signals for the USD, as they can undermine confidence in the currency.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Another steep DXY decline hindered by JPY and EUR uncertainties",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_fx.xml",
+          "date": "2025-07-22"
+        },
+        {
+          "content": "**Foreign Buying: Despite a prior sell-off, foreign buying of US assets has renewed, although the dollar remains weak.**",
+          "reason": "While foreign buying of US assets is a positive sign, the context of a weak dollar indicates a bearish sentiment overall, as it suggests that the dollar's value is still under pressure.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – Has the ebb tide for US assets turned?",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-has-the-ebb-tide-for-us-assets-turned/",
+          "date": "2025-07-23"
+        },
+        {
+          "content": "**DBS (Economic Research Team, DBS Bank): Suggests that a sustained US-China trade truce could limit USD-CNH downside to the 7.1400 – 7.1800 range.**",
+          "reason": "While a trade truce could stabilize the USD-CNH exchange rate, the overall sentiment remains bearish due to the ongoing challenges facing the USD.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Global Currencies 3Q25 – A Weaker USD Trajectory",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalCurrencies.xml",
+          "date": "2025-07-14"
+        },
+        {
+          "content": "**Trump Administration:** May impose higher tariffs on countries that do not reach trade agreements by the August 1 deadline, contingent on the outcome of a court hearing on July 31 regarding the legality of tariffs under the IEEPA.**",
+          "reason": "The potential for higher tariffs could create further uncertainty and pressure on the USD, leading to a bearish outlook.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Refrain from reloading USD shorts into the weekend",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250711_fx.xml",
+          "date": "2025-07-11"
+        },
+        {
+          "content": "**USD Outlook:** The USD's status as a safe haven is being questioned, with expectations of a weaker USD due to lower US growth and potential Fed interest rate cuts.**",
+          "reason": "Questioning the USD's status as a safe haven and expectations of weakness due to growth concerns are strong bearish indicators.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Trump tests market optimism over trade",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-14072025.onlycontent.html",
+          "date": "2025-07-14"
+        },
+        {
+          "content": "**Euro Appreciation: Expected to reach approximately 14% against the US dollar in 2025, potentially impacting eurozone exports.**",
+          "reason": "An expected appreciation of the euro against the USD is a bearish signal for the dollar, indicating a loss of value relative to other currencies.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – Drama on trade policy leaves markets unmoved",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-drama-on-trade-policy-leaves-markets-unmoved/",
+          "date": "2025-07-09"
+        },
+        {
+          "content": "**DBS (Research Team, DBS Bank): Believes SGD rates will maintain a significant discount to USD rates, with USD weakness as a key driver.**",
+          "reason": "The expectation of USD weakness driving the discount of SGD rates is a bearish indicator for the USD's future performance.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Global Rates 3Q25 - Bond Vigilantes Lurk",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalRates.xml",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**BNP Paribas Asset Management:** The US dollar has weakened significantly in 2025, with the dollar index dropping over 10%, marking the worst start to the year since 1973, attributed to aggressive tariff policies and fiscal issues. Currencies likely to outperform the dollar in the second half of 2025 include those from countries with strong current account positions and significant foreign asset ownership, particularly Scandinavian currencies, Switzerland, and Japan.**",
+          "reason": "The significant weakening of the USD and the expectation that other currencies will outperform it are strong bearish signals for the dollar's future performance.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BNP Paribas",
+          "title": "Talking Heads – Any viable alternatives to a US dollar in the doldrums?",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/talking-heads-any-viable-alternatives-to-a-us-dollar-in-the-doldrums/",
+          "date": "2025-07-16"
+        },
+        {
+          "content": "**Federal Reserve (Chair, Federal Reserve): DXY Index appreciated to 98.6, recovering from post-June 18 losses as Fed cut expectations recede. Strong US jobs report on January 3 reduced odds of a September Fed cut to 54% from 90% at the start of the month, amid higher tariff-led CPI inflation at 2.7% YoY in June.**",
+          "reason": "While there is a temporary appreciation of the DXY Index, the overall context of Fed cut expectations and inflation suggests a bearish outlook for the USD.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "USD’s correction could take a breather",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250716_fx.xml",
+          "date": "2025-07-16"
+        },
+        {
+          "content": "**USDCNY: The USDCNY remains subdued, with a stronger CNY fix and softer USD suggesting a constructive outlook for the RMB.**",
+          "reason": "The subdued USDCNY and the suggestion of a stronger RMB indicate a bearish sentiment for the USD, as it implies a loss of value against the Chinese currency.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "OCBC",
+          "title": "Back to fundamentals after geopolitical tensions ease",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/fx-and-commodities",
+          "date": "2025-07-01"
+        }
+      ]
+    },
+    "U.S. Bonds": {
+      "asset": "U.S. Bonds",
+      "overall sentiment": "SELL",
+      "overall sentiment score": -1.0,
+      "summary": "The overall sentiment for U.S. Bonds is SELL, driven by a confluence of bearish indicators. A weaker growth outlook is expected to exert downward pressure on Treasury bond yields, suggesting a challenging environment for bond prices. The market's anticipation of Federal Reserve rate cuts is tempered by persistent inflation, creating uncertainty and limiting the potential for significant rate reductions. Furthermore, a recommendation for defensive positioning in investment-grade bonds, coupled with the expectation of USD weakness, points to a cautious and potentially negative outlook for U.S. debt. Analysts are underweight on long U.S. Treasuries due to anticipated rising term premiums from budget deficits and inflation, and there's a preference for short-term investment-grade credit, indicating a shift away from longer-duration U.S. bonds. These factors collectively suggest a period of headwinds for U.S. Bonds, warranting a SELL recommendation.",
+      "evidence": [
+        {
+          "content": "U.S. Economic Outlook (General Observation): Weaker growth outlook expected to maintain downward pressure on the U.S. dollar and Treasury bond yields.",
+          "reason": "The mention of a weaker growth outlook suggests that Treasury bond yields may decline, which is typically bearish for bond prices.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – The US Treasury yield/dollar value conundrum",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-the-us-treasury-yield-dollar-value-conundrum/",
+          "date": "2025-07-02"
+        },
+        {
+          "content": "Markets: Pricing in multiple Federal Reserve rate cuts over the next year, yet sticky inflation limits rate cuts.",
+          "reason": "While the expectation of rate cuts could be bullish for bonds, the mention of sticky inflation suggests that these cuts may not materialize, leading to uncertainty and a bearish outlook.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#market-commentary",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "Vasu Menon (Managing Director, Global Wealth Management, OCBC Bank): Recommends defensive positioning in IG bonds, particularly in utilities, pharmaceuticals, and banks, as well as in HY BB-rated credits.",
+          "reason": "The recommendation for defensive positioning indicates a cautious approach, which is typically bearish for overall bond market sentiment.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "OCBC",
+          "title": "Resilience despite geopolitical tension",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/bonds",
+          "date": "2025-07-01"
+        },
+        {
+          "content": "DBS (Research Team, DBS Bank): Believes SGD rates will maintain a significant discount to USD rates, with USD weakness as a key driver.",
+          "reason": "The expectation of USD weakness could lead to lower demand for U.S. bonds, which is a bearish signal for their performance.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Global Rates 3Q25 - Bond Vigilantes Lurk",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalRates.xml",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "Investment Team (Report): Underweight on long U.S. Treasuries, anticipating rising term premiums due to budget deficits and inflation pressures, but see potential for lower yields in the near term.",
+          "reason": "The underweight stance on long U.S. Treasuries indicates a bearish outlook due to anticipated rising term premiums, despite the potential for lower yields.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "Investment Team (Report): Overweight on short-term IG credit, as these bonds better compensate for interest rate risk.",
+          "reason": "The preference for short-term IG credit over U.S. Treasuries suggests a bearish sentiment towards long-term U.S. bonds, as investors seek better compensation for risk.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views",
+          "date": "2025-07-21"
+        }
+      ]
+    },
+    "U.S. Funds": {
+      "asset": "U.S. Funds",
+      "overall sentiment": "HOLD",
+      "overall sentiment score": -0.14285714285714285,
+      "summary": "The overall sentiment for U.S. Funds is 'HOLD'. This assessment is based on a mixed bag of economic indicators and policy outlooks. While there are strong bullish signals such as a robust U.S. economy with positive industrial production and retail sales growth, and renewed foreign buying of U.S. assets, there are also significant bearish concerns. These include the potential for increased U.S. deficit due to new legislation, the negative impact of tariffs on growth and inflation, and the appreciation of the Euro against the U.S. dollar. The market is also pricing in Federal Reserve rate cuts, but sticky inflation limits the extent of these cuts, creating a neutral outlook. Given these conflicting signals, a 'HOLD' recommendation is prudent, suggesting investors maintain their current positions while closely monitoring economic developments and policy changes.",
+      "evidence": [
+        {
+          "content": "Markets: Pricing in multiple Federal Reserve rate cuts over the next year, yet sticky inflation limits rate cuts.",
+          "reason": "The expectation of rate cuts is generally bullish for U.S. Funds as it can lead to lower borrowing costs and stimulate economic growth, but the mention of sticky inflation introduces uncertainty, making the overall sentiment more cautious.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#market-commentary"
+        },
+        {
+          "content": "US economy remains robust, with June industrial production growth at 0.3%, retail sales (excluding cars and fuel) up 0.5%, and non-farm payrolls increasing by 147,000.",
+          "reason": "Strong economic indicators such as industrial production growth and retail sales suggest a healthy economy, which is a bullish signal for U.S. Funds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – The dog that didn’t bite",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-the-dog-that-didnt-bite/"
+        },
+        {
+          "content": "Despite a prior sell-off, foreign buying of US assets has renewed, although the dollar remains weak.",
+          "reason": "Renewed foreign buying indicates confidence in U.S. assets, which is a positive sign for U.S. Funds despite the weakness of the dollar.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – Has the ebb tide for US assets turned?",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-has-the-ebb-tide-for-us-assets-turned/"
+        },
+        {
+          "content": "Trade policies or threats that risk a recession will ultimately be negotiated lower due to the One Big Beautiful Bill Act (OBBBA), estimated to add USD 4.1 trillion to the US deficit over the next decade.",
+          "reason": "Concerns about trade policies and their potential to risk a recession are bearish for U.S. Funds, as they could lead to economic instability.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Trump’s tariff letters do not signal trade war escalation",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-08072025.onlycontent.html"
+        },
+        {
+          "content": "The One Big Beautiful Bill (OBBB) is projected to add USD 4.1 trillion to the deficit over the next decade, or USD 5.5 trillion if all tax cuts are made permanent.",
+          "reason": "The significant increase in the deficit is a bearish signal for U.S. Funds, as it raises concerns about fiscal sustainability and potential inflation.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Republicans push through Trump’s One Big Beautiful Bill",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-04072025.onlycontent.html"
+        },
+        {
+          "content": "Expected to reach approximately 14% against the US dollar in 2025, potentially impacting eurozone exports.",
+          "reason": "The appreciation of the euro against the dollar could negatively impact U.S. exports, which is a bearish factor for U.S. Funds.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – Drama on trade policy leaves markets unmoved",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-drama-on-trade-policy-leaves-markets-unmoved/"
+        },
+        {
+          "content": "Tariffs are expected to negatively impact US growth and increase inflation, but the US economy is likely to avoid recession as aggregate household balance sheets remain strong.",
+          "reason": "While tariffs pose a risk to growth and inflation, the resilience of household balance sheets provides a bullish counterpoint, suggesting stability for U.S. Funds.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "UBS",
+          "title": "Trump’s Japan deal points to improving trade clarity",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-23072025.onlycontent.html"
+        }
+      ]
+    },
+    "U.S. Real Estate": {
+      "asset": "U.S. Real Estate",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 1.0,
+      "summary": "The U.S. Real Estate market shows strong bullish signals. REITs have effectively absorbed concerns regarding financing costs, with rental revisions supporting stable distributions per unit. This indicates a resilient and robust real estate sector. Furthermore, there is a clear preference for U.S. agency Mortgage-Backed Securities (MBS) over U.S. Treasuries, highlighting the compelling income potential within the U.S. Real Estate market. These factors collectively suggest a positive outlook for U.S. Real Estate, leading to a 'BUY' recommendation. Investors should consider increasing their exposure to U.S. Real Estate, particularly in REITs and U.S. agency MBS, to capitalize on the stable income and growth prospects.",
+      "evidence": [
+        {
+          "content": "**DBS (Research Team, DBS Bank):** REITs have largely priced in concerns over financing costs, with sector-wide rental revisions of 5-10% supporting stable distributions per unit (DPUs).",
+          "reason": "The mention of REITs pricing in financing costs and stable distributions per unit indicates resilience in the U.S. Real Estate market, suggesting a bullish outlook.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Singapore Equities – Resilience through Quality and Yield",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250709EquitiesWeekly.xml",
+          "date": "2025-07-09"
+        },
+        {
+          "content": "**Investment Team (Report):** Overweight on U.S. agency MBS, considering the income compelling and preferring them over U.S. Treasuries for high-quality fixed income exposure.",
+          "reason": "The preference for U.S. agency MBS over U.S. Treasuries suggests confidence in the income potential of U.S. Real Estate investments, indicating a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views",
+          "date": "2025-07-21"
+        }
+      ]
+    }
+  },
+  "China Assets": {
+    "Chinese Stock": {
+      "asset": "Chinese Stock",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.6,
+      "summary": "The overall sentiment for Chinese Stocks is BUY, primarily driven by strong economic indicators and anticipated government support. Evidence suggests robust retail sales growth, positive GDP figures, and potential policy interventions to bolster the market. While there are concerns about deflationary pressures, the prevailing sentiment from the provided documents points towards a favorable environment for Chinese equities. Investors should consider a buying strategy to capitalize on the positive momentum and expected policy tailwinds.",
+      "evidence": [
+        {
+          "content": "Willem Sels (Unknown Role, HSBC): In China, retail sales growth is at 6.4%, driven by government stimulus; optimism about Chinese tech suggests that further improvements in consumption could benefit Chinese stocks.",
+          "reason": "The growth in retail sales and optimism in the tech sector indicate a positive outlook for consumer spending, which is likely to support Chinese stock performance.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "HSBC",
+          "title": "Lessons from the conflict: building resilience through diversification is key,and it works – Monthly View – July 2025",
+          "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/video-transcripts/monthly-view/2025/monthly-view-july-2025-transcript.pdf",
+          "date": "2025-06-26"
+        },
+        {
+          "content": "Investment Analysts (Analyst team, Unknown): Chinese stocks are buoyed by potential policy support related to property, excess capacity, and fiscal stimulus ahead of the July Politburo meeting.",
+          "reason": "The anticipation of policy support from the government can enhance investor confidence and lead to a positive impact on Chinese stock prices.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "HSBC",
+          "title": "China Perspectives - Economic bifurcation supports structural allocation intodomestic demand winners",
+          "url": "https://www.privatebanking.hsbc.com/wih/investments-Insights/regional-outlook/china-perspectives-economic-bifurcation-supports-structural-allocation.html",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "Concerns: Raised about Chinese deflationary pressure due to increased imports, with President Xi Jinping warning against ‘disorderly’ price competition.",
+          "reason": "The mention of deflationary pressures and warnings from leadership indicate potential economic challenges that could negatively impact stock performance.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – Drama on trade policy leaves markets unmoved",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-drama-on-trade-policy-leaves-markets-unmoved/",
+          "date": "2025-07-09"
+        },
+        {
+          "content": "J.P. Morgan Asset Management (Analyst team, J.P. Morgan): China's Q2 GDP grew 1.1% q/q, leading to 1H growth of 5.3% y/y, despite mixed June activity details.",
+          "reason": "The positive GDP growth indicates economic resilience, which is a bullish signal for the performance of Chinese stocks.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "Morgan Stanley",
+          "title": "Weekly Update 2025-07-21",
+          "url": "https://am.jpmorgan.com/sg/en/asset-management/per/insights/market-insights/market-updates/weekly-market-recap/",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "Onshore USD/CNY Rate: Declined towards the lower end of this year’s 2.5% range between 7.16 and 7.35.",
+          "reason": "A declining USD/CNY rate can indicate a strengthening yuan, which may positively influence investor sentiment towards Chinese stocks.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "DXY could consolidate on trade deals after three-day drop",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250723_fx.xml",
+          "date": "2025-07-23"
+        }
+      ]
+    },
+    "CNY": {
+      "asset": "CNY",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.3333333333333333,
+      "summary": "The overall sentiment for CNY is BUY, driven by several bullish indicators. The decline in the USD/CNY rate and a subdued USDCNY with a stronger CNY fix suggest a constructive and strengthening outlook for the RMB. Additionally, the reversal of SHIBOR-HIBOR spreads indicates increased lending to Mainland China, which is a positive economic signal. Furthermore, the potential for a sustained US-China trade truce could limit the USD-CNH downside, contributing to stability and a bullish outlook for the currency. While there are some bearish signals, such as uneven domestic demand recovery, low fixed asset investment growth, and significant outflows from China due to tariffs, the prevailing sentiment from the provided evidence leans towards a positive trajectory for the CNY. Therefore, a BUY recommendation is appropriate, suggesting that investors consider increasing their exposure to the CNY.",
+      "evidence": [
+        {
+          "content": "Onshore USD/CNY Rate: Declined towards the lower end of this year’s 2.5% range between 7.16 and 7.35.",
+          "reason": "The decline in the USD/CNY rate suggests a strengthening of the CNY, which is a bullish indicator for the currency's future performance.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "DXY could consolidate on trade deals after three-day drop",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250723_fx.xml",
+          "date": "2025-07-23"
+        },
+        {
+          "content": "**USDCNY: The USDCNY remains subdued, with a stronger CNY fix and softer USD suggesting a constructive outlook for the RMB.",
+          "reason": "A subdued USDCNY rate along with a stronger CNY fix indicates a positive outlook for the CNY, supporting a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "OCBC",
+          "title": "Back to fundamentals after geopolitical tensions ease",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/fx-and-commodities",
+          "date": "2025-07-01"
+        },
+        {
+          "content": "**Reversal of SHIBOR-HIBOR spreads is fueling lending to Mainland China.**",
+          "reason": "The reversal of interest rate spreads indicates increased lending activity, which can stimulate economic growth and support the CNY, thus a bullish signal.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Macro Insights Weekly: What does weaker Dollar mean for China and HK?",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/062025/250630_insights_weekly.xml",
+          "date": "2025-06-30"
+        },
+        {
+          "content": "**Samuel Tse (Senior Economist, China & Hong Kong): Domestic demand recovery is uneven, with retail sales growth primarily driven by subsidized products. Fixed asset investment growth has fallen to a post-COVID low of 2.8% YoY YTD in June.",
+          "reason": "The mention of uneven domestic demand recovery and low fixed asset investment growth indicates potential economic weaknesses, which could negatively impact the CNY, thus a bearish sentiment.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "CNY and CNH rates: Policy rate preview",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250718_cnrates.xml",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**DBS (Research Team, DBS Bank):** Europe Equity Funds registered muted inflows of USD 0.6 billion, while China and Japan posted sizeable outflows of USD 3.7 billion and USD 2.8 billion respectively, attributed to upcoming US reciprocal tariffs.",
+          "reason": "The significant outflows from China due to tariffs indicate a bearish outlook for the CNY as it reflects reduced investor confidence and potential economic challenges.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Singapore Equities – Resilience through Quality and Yield",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250709EquitiesWeekly.xml",
+          "date": "2025-07-09"
+        },
+        {
+          "content": "**DBS (Economic Research Team, DBS Bank): Suggests that a sustained US-China trade truce could limit USD-CNH downside to the 7.1400 – 7.1800 range.",
+          "reason": "The potential for a sustained trade truce is a positive factor for the CNY, suggesting stability and a bullish outlook for the currency.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Global Currencies 3Q25 – A Weaker USD Trajectory",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalCurrencies.xml",
+          "date": "2025-07-14"
+        }
+      ]
+    },
+    "Chinese Bonds": {
+      "asset": "Chinese Bonds",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.8,
+      "summary": "The overall sentiment for Chinese Bonds is BUY, driven by several bullish indicators. Retail sales growth, fueled by government stimulus, suggests a robust economic environment that could support bond performance. The reversal of SHIBOR-HIBOR spreads indicates increased lending and liquidity, further bolstering the market. Additionally, a sustained US-China trade truce is expected to stabilize the USD-CNH exchange rate, reducing currency risk and enhancing investor confidence. Finally, significant portfolio inflows into Asian debt markets, including Chinese bonds, highlight strong investor interest and confidence in the asset class. While one report noted a neutral stance due to more attractive yields elsewhere, the overwhelming evidence points to a positive outlook for Chinese Bonds.",
+      "evidence": [
+        {
+          "content": "In China, retail sales growth is at 6.4%, driven by government stimulus; optimism about Chinese tech suggests that further improvements in consumption could benefit Chinese stocks.",
+          "reason": "The growth in retail sales and government stimulus indicates a positive economic environment, which could lead to increased demand for Chinese bonds as investors seek stable returns amidst growth.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "HSBC",
+          "title": "Lessons from the conflict: building resilience through diversification is key,and it works – Monthly View – July 2025",
+          "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/video-transcripts/monthly-view/2025/monthly-view-july-2025-transcript.pdf"
+        },
+        {
+          "content": "**Investment Team (Report): Neutral on China government bonds, supported by looser policy but finds yields more attractive elsewhere.**",
+          "reason": "While the report indicates a neutral stance, the mention of looser policy could imply potential support for bond prices; however, the attractiveness of yields elsewhere suggests a bearish outlook for Chinese bonds as investors may seek better returns.",
+          "sentiment score": 0,
+          "sentiment": "Neutral",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views"
+        },
+        {
+          "content": "**Reversal of SHIBOR-HIBOR spreads is fueling lending to Mainland China.**",
+          "reason": "The reversal of lending spreads suggests increased liquidity and lending activity, which could support economic growth and, in turn, bolster the performance of Chinese bonds.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Macro Insights Weekly: What does weaker Dollar mean for China and HK?",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/062025/250630_insights_weekly.xml"
+        },
+        {
+          "content": "**DBS (Economic Research Team, DBS Bank): Suggests that a sustained US-China trade truce could limit USD-CNH downside to the 7.1400 – 7.1800 range.**",
+          "reason": "A stable exchange rate between USD and CNH could enhance investor confidence in Chinese assets, including bonds, as it reduces currency risk, making it a bullish signal.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Global Currencies 3Q25 – A Weaker USD Trajectory",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalCurrencies.xml"
+        },
+        {
+          "content": "**Market Analysis: Portfolio flows into Asian debt markets reached USD156bn in the first half of 2025, accounting for 40% of total emerging market flows, marking the highest level in four years.**",
+          "reason": "The significant inflow into Asian debt markets, including Chinese bonds, indicates strong investor interest and confidence, which is a bullish signal for the asset class.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Macro Insights Weekly: Rising portfolio allocation to Asia",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/072025/250721_insights_weekly.xml"
+        }
+      ]
+    },
+    "Chinese Funds": {
+      "asset": "Chinese Funds",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.3333333333333333,
+      "summary": "The overall sentiment for Chinese Funds is BUY, driven by several positive indicators. Government stimulus and robust retail sales growth in China suggest a supportive economic environment for Chinese stocks. Furthermore, potential policy support related to property, excess capacity, and fiscal stimulus are expected to buoy Chinese stocks. The reversal of SHIBOR-HIBOR spreads, fueling lending to Mainland China, indicates increased liquidity and economic activity. The People's Bank of China's interest rate cut also aims to stimulate the economy. While there have been some outflows from Chinese funds and inflows into developed markets, the prevailing factors point towards a positive outlook for Chinese Funds, warranting a BUY recommendation. Investors should consider increasing their exposure to Chinese Funds to capitalize on the anticipated growth and policy support.",
+      "evidence": [
+        {
+          "content": "In China, retail sales growth is at 6.4%, driven by government stimulus; optimism about Chinese tech suggests that further improvements in consumption could benefit Chinese stocks.",
+          "reason": "The growth in retail sales and government stimulus indicates a positive economic environment, which is likely to support Chinese stocks, making this a bullish signal for Chinese Funds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "HSBC",
+          "title": "Lessons from the conflict: building resilience through diversification is key,and it works – Monthly View – July 2025",
+          "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/video-transcripts/monthly-view/2025/monthly-view-july-2025-transcript.pdf",
+          "date": "2025-06-26"
+        },
+        {
+          "content": "Chinese stocks are buoyed by potential policy support related to property, excess capacity, and fiscal stimulus ahead of the July Politburo meeting.",
+          "reason": "The mention of potential policy support and fiscal stimulus suggests a favorable outlook for Chinese stocks, indicating a bullish sentiment for Chinese Funds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "HSBC",
+          "title": "China Perspectives - Economic bifurcation supports structural allocation intodomestic demand winners",
+          "url": "https://www.privatebanking.hsbc.com/wih/investments-Insights/regional-outlook/china-perspectives-economic-bifurcation-supports-structural-allocation.html",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**Reversal of SHIBOR-HIBOR spreads is fueling lending to Mainland China.**",
+          "reason": "The reversal of lending spreads indicates increased liquidity and lending activity in Mainland China, which is a positive sign for economic growth and could support Chinese Funds, making this a bullish indicator.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Macro Insights Weekly: What does weaker Dollar mean for China and HK?",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/062025/250630_insights_weekly.xml",
+          "date": "2025-06-30"
+        },
+        {
+          "content": "**The People’s Bank of China:** Cut its 7-day reverse repo rate by 10bps to 1.40%, marking its first interest rate cut since September.",
+          "reason": "An interest rate cut typically aims to stimulate economic activity, which could positively impact Chinese stocks and funds, indicating a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "OCBC",
+          "title": "Stagflation risk",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/global-outlook",
+          "date": "2025-07-01"
+        },
+        {
+          "content": "**LSEG, DBS (Analyst team, LSEG and DBS): Japan recorded USD 2.2 billion in inflows, contrasting with China, which saw USD 1.0 billion in redemptions despite persistent deflation signals.**",
+          "reason": "The outflows from Chinese funds amidst redemptions suggest a bearish sentiment, indicating a lack of confidence in the Chinese market compared to Japan.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Japan Equities – Reform Momentum Endures Amid Trade and Policy Headwinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250716EquitiesWeekly.xml",
+          "date": "2025-07-16"
+        },
+        {
+          "content": "**Equity Funds:** Developed Market Equity Funds saw inflows of USD 4.6 billion during the week ending July 16; EU Equity Funds recorded USD 3 billion in inflows.**",
+          "reason": "The strong inflows into developed market equity funds compared to the situation in China suggest a bearish outlook for Chinese Funds as investors may prefer other markets.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: China Tech Leap – Patent Leadership to Commercial Dominance",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250723EquitiesWeekly.xml",
+          "date": "2025-07-23"
+        }
+      ]
+    },
+    "Chinese Real Estate": {
+      "asset": "Chinese Real Estate",
+      "overall sentiment": "HOLD",
+      "overall sentiment score": 0.0,
+      "summary": "The Chinese Real Estate market presents a mixed outlook. While new home prices and residential sales have seen a significant decline, indicating a bearish trend, government stimulus and optimism in other sectors like tech and retail sales could indirectly support the real estate market by boosting overall consumer confidence and spending. Given these conflicting signals, a 'HOLD' recommendation is appropriate, suggesting investors maintain their current positions while closely monitoring further developments in both the property market and broader economic indicators.",
+      "evidence": [
+        {
+          "content": "- **China's Property Market**: New home prices fell 0.27% in June, with residential sales dropping 12.6% year-on-year, continuing to weigh on consumer demand.",
+          "reason": "The decline in new home prices and significant drop in residential sales indicate a weakening property market, which is a strong bearish signal for Chinese real estate.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "T.RowePrice",
+          "title": "Global markets weekly update 2025-07-18",
+          "url": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "Willem Sels (Unknown Role, HSBC): In China, retail sales growth is at 6.4%, driven by government stimulus; optimism about Chinese tech suggests that further improvements in consumption could benefit Chinese stocks.",
+          "reason": "While this content is more focused on retail sales and tech, the mention of government stimulus and optimism could indirectly support the real estate market by boosting consumer confidence and spending, suggesting a potential bullish outlook.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "HSBC",
+          "title": "Lessons from the conflict: building resilience through diversification is key,and it works – Monthly View – July 2025",
+          "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/video-transcripts/monthly-view/2025/monthly-view-july-2025-transcript.pdf",
+          "date": "2025-06-26"
+        }
+      ]
+    }
+  },
+  "Singapore Assets": {
+    "Singapore Stock": {
+      "asset": "Singapore Stock",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.5,
+      "summary": "The overall sentiment for Singapore Stock is BUY, driven by several positive indicators. DBS Bank highlights the attractiveness of Singapore equities due to their quality and average dividend yields of approximately 4.2%, primarily from banks and REITs, with the Straits Times Index (STI) rallying significantly. OCBC reiterates an Overweight stance on Singapore, citing earnings resilience. Furthermore, the Singapore economy avoided a technical recession with 1.4% GDP growth in 2Q25, indicating stability and growth potential. While there is some uncertainty from global tariff news, the positive factors strongly outweigh the negative, leading to a bullish outlook for Singapore Stock. Therefore, a BUY strategy is recommended.",
+      "evidence": [
+        {
+          "content": "**DBS (Research Team, DBS Bank):** Singapore equities are attractive due to quality and average dividend yields of approximately 4.2%, primarily from banks and REITs, amid macro uncertainties. The Straits Times Index (STI) has rallied 19% since its low on April 9, resulting in a 6% year-to-date increase. REITs have largely priced in concerns over financing costs, with sector-wide rental revisions of 5-10% supporting stable distributions per unit (DPUs).",
+          "reason": "This content highlights the attractiveness of Singapore equities due to quality and strong dividend yields, indicating a positive outlook for the asset.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Singapore Equities – Resilience through Quality and Yield",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250709EquitiesWeekly.xml",
+          "date": "2025-07-09"
+        },
+        {
+          "content": "**Eli Lee (Managing Director, Chief Investment Strategist, Bank of Singapore Limited):** Reiterates an Overweight stance on Asia ex-Japan, favoring Hong Kong, Singapore, and the Philippines for their earnings resilience, and prefers offshore Chinese equities amid easing Sino-US trade tensions. Expects decent earnings growth in 2025 but is cautious of tail risks such as geopolitical and trade developments. Monitors the decline in Hong Kong interbank offered rates (HIBOR) for its potential impact on banks, property, and highly leveraged companies.",
+          "reason": "The emphasis on an Overweight stance on Singapore indicates confidence in its earnings resilience, suggesting a bullish sentiment towards Singapore stocks despite some caution.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "OCBC",
+          "title": "Stay the course amidst volatility",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/equities",
+          "date": "2025-07-01"
+        },
+        {
+          "content": "**Singapore Economy (Economic Indicator): Real GDP growth expanded 1.4% in 2Q25, avoiding a technical recession following a 0.5% QoQ contraction in 1Q25.** Monetary Authority of Singapore (Institution): Expected to hold off on a third reduction in the slope of the SGD NEER policy band at the July policy review.",
+          "reason": "The positive GDP growth indicates economic resilience, which is a bullish signal for Singapore stocks as it suggests stability and potential for growth.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Gripped by politics and trade crosswinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250721_fx.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**Market Reaction: US stocks fell approximately 1% following the tariff news, while some Asian markets rose due to negotiation prospects; the JPY weakened and KRW retraced initial losses.**",
+          "reason": "The content indicates uncertainty in global financial markets due to tariff news, which could negatively impact investor sentiment towards Singapore stocks, suggesting a bearish outlook.",
+          "sentiment score": -1,
+          "sentiment": "Bearish",
+          "source": "HSBC",
+          "title": "Market Update - Tariff deadline pushed back to 1 August, resulting in further uncertainty for global financial markets",
+          "url": "https://www.privatebanking.hsbc.com/wih/investments-Insights/market-update/market-update-tariff-deadline-pushed-back-to-one-august.html",
+          "date": "2025-07-08"
+        }
+      ]
+    },
+    "SGD": {
+      "asset": "SGD",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.5,
+      "summary": "The overall sentiment for SGD is BUY, driven by several factors. The Monetary Authority of Singapore's expected decision to hold off on further reductions in the SGD NEER policy band suggests stability and support for the currency. Additionally, the SGD is anticipated to benefit from positive trade dynamics in Asia, despite a potential slowdown in outperformance as it approaches the upper end of the MAS policy band. The expected rebound in the correlation between SGD and USD rates also indicates a strengthening outlook for SGD. While there is a consideration that SGD rates will maintain a discount to USD rates due to USD weakness, the prevailing sentiment from the other analyses points towards a positive trajectory for the SGD. Therefore, a BUY recommendation is appropriate, suggesting that investors should consider increasing their exposure to SGD.",
+      "evidence": [
+        {
+          "content": "SGD NEER (Currency Indicator): Currently 1.6% above the mid-point of the band; expected to remain stable during Deputy Prime Minister Gan Kim Yong’s trip to the US for tariff relief discussions, particularly on pharmaceuticals. **Monetary Authority of Singapore (Institution): Expected to hold off on a third reduction in the slope of the SGD NEER policy band at the July policy review.**",
+          "reason": "The stability of the SGD NEER and the expectation of no further reduction in the policy band suggest a supportive environment for the SGD, indicating a bullish outlook.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Gripped by politics and trade crosswinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250721_fx.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "DBS (Economic Research Team, DBS Bank): Believes SGD benefits from trade dynamics supporting Asian currencies, but this outperformance is likely to slow as SGD strength tests the top end of the MAS policy band. **DBS (Economic Research Team, DBS Bank): Believes SGD benefits from trade dynamics supporting Asian currencies, but this outperformance is likely to slow as SGD strength tests the top end of the MAS policy band.**",
+          "reason": "While the content acknowledges potential slowing in SGD's outperformance, the overall sentiment is still positive regarding the benefits from trade dynamics, indicating a bullish perspective.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Global Currencies 3Q25 – A Weaker USD Trajectory",
+          "url": "https://www.dbs.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalCurrencies.xml",
+          "date": "2025-07-14"
+        },
+        {
+          "content": "**Eugene Leow (Senior Rates Strategist, G3 & Asia):** The correlation between SGD and USD rates is expected to rebound as investors adjust to a new neutral discount rate for SGD rates.",
+          "reason": "The expectation of a rebound in correlation suggests a potential strengthening of SGD rates relative to USD rates, which is a bullish indicator for the SGD.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "SGD Rates: Markedly lower correlation with USD rates",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250717_sgrates.xml",
+          "date": "2025-07-17"
+        },
+        {
+          "content": "**DBS (Research Team, DBS Bank): Believes SGD rates will maintain a significant discount to USD rates, with USD weakness as a key driver.**",
+          "reason": "The expectation that SGD rates will maintain a discount to USD rates, driven by USD weakness, suggests a bearish outlook for SGD as it indicates relative weakness compared to USD.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Global Rates 3Q25 - Bond Vigilantes Lurk",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalRates.xml",
+          "date": "2025-07-18"
+        }
+      ]
+    },
+    "Singapore Bonds": {
+      "asset": "Singapore Bonds",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 1.0,
+      "summary": "The outlook for Singapore Bonds is highly positive, warranting a 'BUY' recommendation. This assessment is primarily driven by robust economic indicators and strong market interest. Singapore's economy demonstrated resilience by avoiding a technical recession with a 1.4% GDP growth in Q2 2025, signaling stability and a favorable environment for fixed income. Furthermore, significant portfolio flows into Asian debt markets, reaching USD156 billion in the first half of 2025, underscore strong investor confidence and demand for regional debt, including Singapore Bonds. Although primarily focused on equities, the attractiveness of Singapore equities due to their quality and dividend yields indirectly supports the bond market by indicating overall economic health and investor comfort with Singaporean assets. These factors collectively point to a strong bullish sentiment for Singapore Bonds, making them an attractive investment.",
+      "evidence": [
+        {
+          "content": "**Singapore Economy (Economic Indicator):** Real GDP growth expanded 1.4% in 2Q25, avoiding a technical recession following a 0.5% QoQ contraction in 1Q25.",
+          "reason": "The positive GDP growth indicates economic stability, which is generally favorable for bond performance, suggesting a bullish outlook for Singapore Bonds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Gripped by politics and trade crosswinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250721_fx.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**Market Analysis:** Portfolio flows into Asian debt markets reached USD156bn in the first half of 2025, accounting for 40% of total emerging market flows, marking the highest level in four years.",
+          "reason": "The significant inflow into Asian debt markets, including Singapore Bonds, indicates strong investor confidence and demand, which is a bullish signal for the asset.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Macro Insights Weekly: Rising portfolio allocation to Asia",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/072025/250721_insights_weekly.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**DBS (Research Team, DBS Bank):** Singapore equities are attractive due to quality and average dividend yields of approximately 4.2%, primarily from banks and REITs, amid macro uncertainties.",
+          "reason": "While this content primarily discusses equities, the mention of quality and yield can also reflect positively on bonds, as stable equities often correlate with stable bond markets, suggesting a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Singapore Equities – Resilience through Quality and Yield",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250709EquitiesWeekly.xml",
+          "date": "2025-07-09"
+        }
+      ]
+    },
+    "Singapore Funds": {
+      "asset": "Singapore Funds",
+      "overall sentiment": "SELL",
+      "overall sentiment score": -1.0,
+      "summary": "The overall sentiment for Singapore Funds is SELL, primarily driven by several bearish indicators. The consolidation of the DXY Index in a high range suggests a strong US dollar, which typically has a negative impact on Singaporean assets as a weaker USD generally supports Asian currencies. Furthermore, higher U.S. policy rates are leading to wider interest rate differentials, potentially causing capital outflows from Singapore Funds as investors seek more attractive returns in the U.S. While the Singapore Dollar (SGD) has benefited from trade dynamics, its outperformance is expected to slow, indicating a potential challenge for Singapore Funds. Lastly, significant inflows into Developed Market Equity Funds suggest a preference for these markets over Singapore Funds, reinforcing the bearish outlook. Based on these factors, a SELL recommendation is prudent for Singapore Funds.",
+      "evidence": [
+        {
+          "content": "**DXY Index (Market Indicator): Consolidated in a 98-99 range last week after rising from a low of 96.4 on July 1.**",
+          "reason": "The stability of the DXY Index suggests a strong dollar environment, which can negatively impact Singapore Funds as a weaker USD typically supports Asian currencies, including SGD.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Gripped by politics and trade crosswinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250721_fx.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "Higher U.S. policy rates: Mean interest rate differentials between the U.S. and other countries stay wide, revealing an array of global fixed income opportunities.",
+          "reason": "Higher U.S. policy rates can lead to capital outflows from Singapore Funds as investors seek higher returns in the U.S., indicating a bearish outlook.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#market-commentary",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "DBS (Economic Research Team, DBS Bank): Believes SGD benefits from trade dynamics supporting Asian currencies, but this outperformance is likely to slow as SGD strength tests the top end of the MAS policy band.",
+          "reason": "While there is a positive outlook for SGD, the anticipated slowdown in its strength suggests potential challenges for Singapore Funds, leading to a bearish sentiment.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Global Currencies 3Q25 – A Weaker USD Trajectory",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalCurrencies.xml",
+          "date": "2025-07-14"
+        },
+        {
+          "content": "**Equity Funds:** Developed Market Equity Funds saw inflows of USD 4.6 billion during the week ending July 16; EU Equity Funds recorded USD 3 billion in inflows.",
+          "reason": "The inflow into Developed Market Equity Funds indicates a preference for these markets over Singapore Funds, suggesting a bearish sentiment for the latter.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: China Tech Leap – Patent Leadership to Commercial Dominance",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250723EquitiesWeekly.xml",
+          "date": "2025-07-23"
+        }
+      ]
+    },
+    "Singapore Real Estate": {
+      "asset": "Singapore Real Estate",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.75,
+      "summary": "The Singapore Real Estate market demonstrates strong bullish signals. The economy has avoided a technical recession with 1.4% GDP growth in 2Q25, indicating a stable economic environment conducive to real estate. Furthermore, REITs have shown resilience by largely pricing in financing costs and maintaining stable distributions per unit (DPUs) through rental revisions. The Monetary Authority of Singapore's decision to hold off on further policy band reductions suggests a stable monetary policy, which is supportive of real estate investments. While there is a neutral sentiment regarding Japanese equities, this does not directly impact the positive outlook for Singapore Real Estate. Based on these factors, a BUY recommendation is appropriate for Singapore Real Estate.",
+      "evidence": [
+        {
+          "content": "**Singapore Economy (Economic Indicator): Real GDP growth expanded 1.4% in 2Q25, avoiding a technical recession following a 0.5% QoQ contraction in 1Q25.**",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Gripped by politics and trade crosswinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250721_fx.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**DBS (Research Team, DBS Bank):** REITs have largely priced in concerns over financing costs, with sector-wide rental revisions of 5-10% supporting stable distributions per unit (DPUs).",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Singapore Equities – Resilience through Quality and Yield",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250709EquitiesWeekly.xml",
+          "date": "2025-07-09"
+        },
+        {
+          "content": "**Monetary Authority of Singapore (Institution): Expected to hold off on a third reduction in the slope of the SGD NEER policy band at the July policy review.**",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Gripped by politics and trade crosswinds",
+          "url": "https://www.dbs.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250721_fx.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "Eli Lee (Managing Director, Chief Investment Strategist, Bank of Singapore Limited): Suggests a Neutral position on Japanese equities for 2H25, recommending investments in domestic-oriented non-manufacturers, companies benefiting from higher interest rates, and AI plays, while noting that JPY appreciation may pressure export-oriented companies.",
+          "sentiment score": 0,
+          "sentiment": "Neutral",
+          "source": "OCBC",
+          "title": "Stay the course amidst volatility",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/equities",
+          "date": "2025-07-01"
+        }
+      ]
+    }
+  },
+  "Japan Assets": {
+    "Japanese Stock": {
+      "asset": "Japanese Stock",
+      "overall sentiment": "SELL",
+      "overall sentiment score": -0.33,
+      "summary": "The overall sentiment for Japanese Stock is SELL, primarily due to several bearish indicators outweighing bullish signals. Policy uncertainties stemming from the ruling coalition's need for opposition support to pass legislation create an unstable political environment. The weakening yen, as indicated by the rise in USD/JPY, negatively impacts Japanese exports. Furthermore, anticipated earnings contraction, particularly in the automotive sector, and the expectation of rising yields due to potential Bank of Japan rate hikes, suggest increased borrowing costs and reduced investment in equities. While there have been significant capital inflows into Japanese equities and favorable investment opportunities in certain sectors, these positive factors are not strong enough to offset the prevailing negative outlook. Therefore, a SELL recommendation is appropriate given the current economic and political landscape.",
+      "evidence": [
+        {
+          "content": "Japan's ruling coalition secured 47 seats in the upper house election, necessitating support from opposition parties to pass legislation.",
+          "reason": "The need for opposition support may lead to policy uncertainties, which can negatively impact investor confidence in Japanese stocks.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Japan markets: Policy uncertainties remain after upper house election",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_japan.xml"
+        },
+        {
+          "content": "Japan recorded USD 2.2 billion in inflows, contrasting with China, which saw USD 1.0 billion in redemptions despite persistent deflation signals.",
+          "reason": "The significant inflow of capital into Japanese equities indicates strong investor interest and confidence, suggesting a bullish outlook for the market.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Japan Equities – Reform Momentum Endures Amid Trade and Policy Headwinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250716EquitiesWeekly.xml"
+        },
+        {
+          "content": "**Economic Analysts: Favorable investment opportunities in Japanese equities include oversold and high-quality cyclical stocks in the auto, machinery, and healthcare sectors for medium-term returns.",
+          "reason": "The identification of favorable investment opportunities in key sectors suggests a positive outlook for Japanese stocks, indicating potential for growth.",
+          "sentiment": "bullish",
+          "sentiment_score": 1,
+          "source": "UBS",
+          "title": "Trump’s Japan deal points to improving trade clarity",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-23072025.onlycontent.html"
+        },
+        {
+          "content": "**USD/JPY:** Rose by 2.1% to 147.43 last week, despite the DXY Index's decline, as the Bank of Japan reduced bond tapering pace to JPY400 billion.",
+          "reason": "The rise in USD/JPY indicates a weakening yen, which can negatively affect Japanese exports and, consequently, the stock market, leading to a bearish sentiment.",
+          "sentiment": "bearish",
+          "sentiment_score": -1,
+          "source": "DBS Bank",
+          "title": "Downside risks in the EUR, GBP, and JPY",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250714_fx.xml"
+        },
+        {
+          "content": "**Market Analysts (Various Analysts): Japan's earnings contraction is anticipated to be primarily driven by the automotive sector, indicating sector-specific risks in Japanese equities.",
+          "reason": "The expected contraction in earnings, particularly in a key sector like automotive, poses a risk to overall market performance, suggesting a bearish outlook.",
+          "sentiment": "bearish",
+          "sentiment_score": -1,
+          "source": "BNP Paribas",
+          "title": "Graph of the Week – What can investors expect from Q2 earnings?",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/graph-of-the-week-what-can-investors-expect-from-q2-earnings/"
+        },
+        {
+          "content": "**Investment Team (Report): Underweight on Japanese government bonds, anticipating further yield increases due to potential Bank of Japan rate hikes and a higher global term premium.",
+          "reason": "The expectation of rising yields may lead to higher borrowing costs and reduced investment in equities, indicating a bearish sentiment towards Japanese stocks.",
+          "sentiment": "bearish",
+          "sentiment_score": -1,
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views"
+        }
+      ]
+    },
+    "JPY": {
+      "asset": "JPY",
+      "overall sentiment": "HOLD",
+      "overall sentiment score": 0.0,
+      "summary": "The Japanese Yen (JPY) currently exhibits a neutral outlook, warranting a 'HOLD' recommendation. This assessment is based on a balanced set of factors, with both bullish and bearish indicators influencing its trajectory. On the bullish side, the JPY is seen as a safe-haven currency, attracting inflows due to its stability and the size of the Japanese financial system. Recent capital inflows into Japan, contrasting with redemptions in other Asian markets, further support this positive sentiment. Additionally, the USD/JPY pair's tight trading range with an upside bias suggests potential for JPY strength. Conversely, bearish pressures stem from political uncertainties, particularly the ruling coalition's need for opposition support to pass legislation, which could lead to policy gridlock. The JPY has also underperformed due to market concerns about the ruling party's potential loss of majority in recent elections. Furthermore, the inability of the 10-year Japanese Government Bond (JGB) yield to consistently surpass 1.60% indicates a lack of strong economic confidence, contributing to a bearish view. Given these mixed signals, a 'HOLD' strategy is recommended, advising investors to maintain their current JPY positions while closely monitoring political developments and economic indicators for clearer directional cues.",
+      "evidence": [
+        {
+          "content": "JPY has underperformed as markets priced in the risk of the ruling LDP-Komeito coalition losing its majority in the July 20 Upper House elections.",
+          "reason": "The potential loss of majority by the ruling coalition introduces political uncertainty, which is typically bearish for the currency as it may lead to instability in economic policy.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "US CPI surprise may not echo jobs report impact",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250715_fx.xml",
+          "date": "2025-07-15"
+        },
+        {
+          "content": "DBS (Economic Research Team, DBS Bank): Foresees JPY performing well as a USD alternative due to its haven status and the size of the Japanese financial system.",
+          "reason": "The JPY is expected to strengthen as a safe-haven currency, especially in times of global uncertainty, indicating a bullish outlook for JPY.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Global Currencies 3Q25 – A Weaker USD Trajectory",
+          "url": "https://www.dbs.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalCurrencies.xml",
+          "date": "2025-07-14"
+        },
+        {
+          "content": "10Y JGB Yield (Market Indicator): The yield's failure to surpass 1.60% for the third time this year (dropping below 1.55%) is influencing JPY movements.",
+          "reason": "The inability of the JGB yield to rise may indicate a lack of confidence in the Japanese economy, which can be bearish for the JPY as it reflects lower interest rates and potential economic stagnation.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Gripped by politics and trade crosswinds",
+          "url": "https://www.dbs.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250721_fx.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**MA TIEYING 馬鐵英 (SENIOR ECONOMIST, JAPAN, SOUTH KOREA, & TAIWAN): Japan's ruling coalition secured 47 seats in the upper house election, necessitating support from opposition parties to pass legislation.",
+          "reason": "While the ruling coalition maintained a presence, the need for opposition support may lead to legislative gridlock, which is a bearish signal for JPY due to potential policy inaction.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Japan markets: Policy uncertainties remain after upper house election",
+          "url": "https://www.dbs.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_japan.xml",
+          "date": "2025-07-22"
+        },
+        {
+          "content": "**LSEG, DBS (Analyst team, LSEG and DBS): Japan recorded USD 2.2 billion in inflows, contrasting with China, which saw USD 1.0 billion in redemptions despite persistent deflation signals.",
+          "reason": "The significant inflow of capital into Japan suggests a positive sentiment towards Japanese equities, which can be bullish for the JPY as it indicates confidence in the Japanese market.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Japan Equities – Reform Momentum Endures Amid Trade and Policy Headwinds",
+          "url": "https://www.dbs.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250716EquitiesWeekly.xml",
+          "date": "2025-07-16"
+        },
+        {
+          "content": "**USD/JPY:** Remains in a tight range of 146-147 with an upside bias.",
+          "reason": "The tight trading range with an upside bias suggests potential strength in the JPY against the USD, indicating a bullish sentiment for the currency.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "DXY could consolidate on trade deals after three-day drop",
+          "url": "https://www.dbs.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250723_fx.xml",
+          "date": "2025-07-23"
+        }
+      ]
+    },
+    "Japanese Bonds": {
+      "asset": "Japanese Bonds",
+      "overall sentiment": "SELL",
+      "overall sentiment score": -1.0,
+      "summary": "The overall sentiment for Japanese Bonds is SELL, driven by strong bearish signals from the provided evidence. Concerns over the declining support for Japan's ruling Liberal Democratic Party (LDP) due to rising living costs and calls to lower the consumption tax are pressuring the JPY and Japanese Government Bonds (JGBs), leading to a significant rise in Japan's 20-year yield. This indicates a negative outlook for bond prices. Furthermore, BlackRock's investment team is underweight on Japanese government bonds, anticipating further yield increases due to potential Bank of Japan rate hikes and a higher global term premium. These factors collectively suggest a challenging environment for Japanese Bonds, warranting a SELL recommendation.",
+      "evidence": [
+        {
+          "content": "**Liberal Democratic Party (LDP) of Japan: Concerns over the ruling LDP's declining support due to rising living costs and opposition calls to lower the consumption tax are pressuring the JPY and Japanese Government Bonds (JGBs), with Japan's 20Y yield rising over 20bps since July.**",
+          "reason": "The mention of declining support for the ruling party and rising yields indicates a bearish outlook for Japanese Bonds, as higher yields typically lead to lower bond prices.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "USD tempest as speculation grows over an early Powell exit",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250717_fx.xml",
+          "date": "2025-07-17"
+        },
+        {
+          "content": "**Investment Team (Report): Underweight on Japanese government bonds, anticipating further yield increases due to potential Bank of Japan rate hikes and a higher global term premium.**",
+          "reason": "The report's recommendation to be underweight on Japanese government bonds suggests a bearish sentiment, as it anticipates further yield increases which would negatively impact bond prices.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views",
+          "date": "2025-07-21"
+        }
+      ]
+    },
+    "Japanese Funds": {
+      "asset": "Japanese Funds",
+      "overall sentiment": "HOLD",
+      "overall sentiment score": 0.14285714285714285,
+      "summary": "The sentiment surrounding Japanese Funds is mixed, leading to a 'HOLD' recommendation. While there are strong bullish indicators such as significant inflows into Japan, positive outlooks due to inflation resurgence, corporate reforms, and potential for renewed trade talks, there are also notable bearish concerns. These include policy uncertainties stemming from the ruling coalition's need for opposition support, the 10Y JGB yield's inability to surpass 1.60%, and the ongoing uncertainty from trade negotiations. The positive factors suggest underlying strength and potential for growth, but the political and economic uncertainties warrant caution. Therefore, a 'HOLD' strategy is recommended, advising investors to maintain their current positions and monitor developments closely before making further investment decisions.",
+      "evidence": [
+        {
+          "content": "**MA TIEYING 馬鐵英 (SENIOR ECONOMIST, JAPAN, SOUTH KOREA, & TAIWAN): Japan's ruling coalition secured 47 seats in the upper house election, necessitating support from opposition parties to pass legislation.",
+          "reason": "The need for opposition support may lead to policy uncertainties, which can negatively impact market confidence and performance, indicating a bearish outlook for Japanese Funds.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Japan markets: Policy uncertainties remain after upper house election",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_japan.xml",
+          "date": "2025-07-22"
+        },
+        {
+          "content": "**10Y JGB Yield (Market Indicator): The yield's failure to surpass 1.60% for the third time this year (dropping below 1.55%) is influencing JPY movements.",
+          "reason": "The inability of the 10Y JGB yield to rise may indicate a lack of investor confidence in the Japanese economy, which could lead to a bearish sentiment for Japanese Funds.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Gripped by politics and trade crosswinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250721_fx.xml",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**Investment Team (Report): Overweight on Japan due to inflation resurgence and corporate reforms, favoring unhedged exposures as the yen strengthens during market stress.",
+          "reason": "The report indicates a bullish outlook due to inflation resurgence and corporate reforms, suggesting that Japanese Funds may perform well in the current market environment.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**LSEG, DBS (Analyst team, LSEG and DBS): Japan recorded USD 2.2 billion in inflows, contrasting with China, which saw USD 1.0 billion in redemptions despite persistent deflation signals.",
+          "reason": "The significant inflows into Japan indicate strong investor interest and confidence, which is a bullish signal for Japanese Funds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Japan Equities – Reform Momentum Endures Amid Trade and Policy Headwinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250716EquitiesWeekly.xml",
+          "date": "2025-07-16"
+        },
+        {
+          "content": "**Ma Tieying (Senior Economist, Japan, South Korea, & Taiwan):** If the ruling coalition retains its majority, renewed momentum in Japan-US trade talks and maintained fiscal discipline are expected, allowing the Bank of Japan to normalize monetary policy later this year.",
+          "reason": "The potential for renewed trade talks and fiscal discipline suggests a positive outlook for the Japanese economy, which could be bullish for Japanese Funds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Japan markets: Upper house election preview",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250718_japan.xml",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**Morgan Stanley Investment Management (MSIM):** Investment advisory fees in Japan for IMAs or IAAs are up to 2.20% per annum, with additional fees potentially applicable.",
+          "reason": "The increase in investment advisory fees may indicate a growing market for investment management in Japan, which could be seen as a bullish sign for Japanese Funds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "Morgan Stanley CIO",
+          "title": "Key Themes and Top Trade Ideas for the Second Half of 2025",
+          "url": "https://www.morganstanley.com/im/en-sg/institutional-investor/insights/articles/market-pulse-with-jim-caron-20250630.html",
+          "date": "2025-06-30"
+        },
+        {
+          "content": "**Japan and India (Governments):** Extended trade negotiators’ stay in Washington to reach separate tariff agreements.",
+          "reason": "The ongoing trade negotiations may create uncertainty in the market, which could be viewed as a bearish factor for Japanese Funds.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Markets count down to tariff deadline",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-30062025.onlycontent.html",
+          "date": "2025-06-30"
+        }
+      ]
+    },
+    "Japanese Real Estate": {
+      "asset": "Japanese Real Estate",
+      "overall sentiment": "HOLD",
+      "overall sentiment score": 0.0,
+      "summary": "The sentiment surrounding Japanese Real Estate is currently neutral, leading to a 'HOLD' recommendation. While there are positive indicators such as significant capital inflows into Japan and the potential for stable economic policies and trade relations if the ruling coalition maintains its majority, there are also notable concerns. Policy uncertainties stemming from the need for opposition support in legislation, anticipated earnings contraction in key sectors like automotive, and an underweight stance on Japanese government bonds due to expected yield increases all contribute to a cautious outlook. These mixed signals suggest that while there are opportunities, there are also considerable risks that balance each other out, warranting a holding strategy for now.",
+      "evidence": [
+        {
+          "content": "**MA TIEYING 馬鐵英 (SENIOR ECONOMIST, JAPAN, SOUTH KOREA, & TAIWAN): Japan's ruling coalition secured 47 seats in the upper house election, necessitating support from opposition parties to pass legislation.**",
+          "reason": "The need for opposition support may lead to policy uncertainties, which can negatively impact investor confidence in Japanese real estate.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Japan markets: Policy uncertainties remain after upper house election",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_japan.xml",
+          "date": "2025-07-22"
+        },
+        {
+          "content": "**LSEG, DBS (Analyst team, LSEG and DBS): Japan recorded USD 2.2 billion in inflows, contrasting with China, which saw USD 1.0 billion in redemptions despite persistent deflation signals.**",
+          "reason": "The inflow of capital into Japan indicates a positive sentiment towards Japanese equities, which can also reflect positively on the real estate market as it suggests investor confidence.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Japan Equities – Reform Momentum Endures Amid Trade and Policy Headwinds",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250716EquitiesWeekly.xml",
+          "date": "2025-07-16"
+        },
+        {
+          "content": "**Ma Tieying (Senior Economist, Japan, South Korea, & Taiwan): If the ruling coalition retains its majority, renewed momentum in Japan-US trade talks and maintained fiscal discipline are expected, allowing the Bank of Japan to normalize monetary policy later this year.**",
+          "reason": "A stable ruling coalition could lead to favorable economic policies and trade relations, which would support the Japanese real estate market.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Japan markets: Upper house election preview",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250718_japan.xml",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**Market Analysts (Various Analysts): Japan's earnings contraction is anticipated to be primarily driven by the automotive sector, indicating sector-specific risks in Japanese equities.**",
+          "reason": "The anticipated contraction in earnings, particularly in a key sector, may lead to broader economic concerns that could negatively affect the real estate market.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BNP Paribas",
+          "title": "Graph of the Week – What can investors expect from Q2 earnings?",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/graph-of-the-week-what-can-investors-expect-from-q2-earnings/",
+          "date": "2025-07-14"
+        },
+        {
+          "content": "**Investment Team (Report): Underweight on Japanese government bonds, anticipating further yield increases due to potential Bank of Japan rate hikes and a higher global term premium.**",
+          "reason": "An underweight stance on government bonds suggests a bearish outlook on the overall economic environment, which could negatively impact real estate investments.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**Economic Analysts: Favorable investment opportunities in Japanese equities include oversold and high-quality cyclical stocks in the auto, machinery, and healthcare sectors for medium-term returns.**",
+          "reason": "The identification of favorable investment opportunities in Japanese equities can indicate a positive outlook for the broader market, including real estate.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "UBS",
+          "title": "Trump’s Japan deal points to improving trade clarity",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-23072025.onlycontent.html",
+          "date": "2025-07-23"
+        }
+      ]
+    }
+  },
+  "Europe Assets": {
+    "European Stock": {
+      "asset": "European Stock",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.33,
+      "summary": "The overall sentiment for European Stock is BUY, driven by several positive indicators. European equities have demonstrated resilience, with the STOXX 600 showing a significant year-to-date increase and expectations of further benefits from lower interest rates and fiscal expansion in Germany. Furthermore, European equities have outperformed US equities, suggesting a shift in global investor sentiment away from US economic prospects due to trade war anxieties. While there is some lingering uncertainty, particularly in the pharmaceuticals sector, and a noted preference for US investments in some outlooks, the prevailing evidence points towards a favorable environment for European stocks. Therefore, a BUY recommendation is appropriate, suggesting that investors consider increasing their exposure to European equities.",
+      "evidence": [
+        {
+          "content": "European equities are relatively insulated from global volatility, with the STOXX 600 up approximately 7% year-to-date and expected to benefit from lower interest rates and fiscal expansion in Germany.",
+          "reason": "The positive performance of European equities and the expectation of benefits from lower interest rates and fiscal expansion indicate a bullish outlook for European stocks.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Equities Weekly: Europe Equities - Defensive Tilt Amid Tariffs",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250702EquitiesWeekly.xml"
+        },
+        {
+          "content": "European equities have outperformed US equities when evaluated in US dollars, indicating global investor pessimism about US economic prospects amid trade war anxiety.",
+          "reason": "The outperformance of European equities compared to US equities suggests a favorable sentiment towards European stocks, making it a bullish indicator.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "Deloitte",
+          "title": "Weekly global economic update 2025-07-22",
+          "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html"
+        },
+        {
+          "content": "The absence of a trade tariff letter is seen as a potentially positive sign, although uncertainty remains, particularly in the pharmaceuticals sector. A neutral outlook on European stocks is noted, favoring US investments.",
+          "reason": "While the absence of tariffs is a positive sign, the overall neutral outlook and preference for US investments suggest a cautious stance on European stocks, indicating a bearish sentiment.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "HSBC",
+          "title": "Market Update - Key take-aways from our webcast: Geopolitical Conflicts and Tariffs: Managing Market Uncertainty - 10 July 2025",
+          "url": "https://www.privatebanking.hsbc.com/wih/investments-Insights/market-update/market-update-geopolitical-conflicts-and-tariffs.html"
+        }
+      ]
+    },
+    "EUR": {
+      "asset": "EUR",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.42857142857142855,
+      "summary": "The overall sentiment for EUR is BUY, driven by several bullish indicators. Expectations of a steepening bias in EUR swap curves and limited downside to nominal rates suggest potential for appreciation. The Euro has already seen significant appreciation against the USD, reaching its highest valuation since April 2008, indicating strong demand. Furthermore, DBS strongly recommends long EUR positions, anticipating further appreciation against major currencies. While the ECB has warned about the potential negative impacts of excessive Euro strength on inflation and exports, and the European Commission's statement on trade countermeasures is neutral, the prevailing sentiment from market analysts and the current performance of the Euro point towards continued strength. Therefore, a BUY recommendation is appropriate, with a strategy to capitalize on the anticipated appreciation of the Euro.",
+      "evidence": [
+        {
+          "content": "**Eugene Leow (Senior Rates Strategist, G3 & Asia): Expects a steepening bias in Bund and EUR swap curves to continue, with upward pressures particularly acute in the belly tenors.** Limited downside to nominal EUR rates, even if the neutral real rate is zero, suggesting potential for higher rates.",
+          "reason": "The expectation of a steepening bias in EUR swap curves and limited downside to nominal rates indicates a bullish outlook for EUR, suggesting potential for appreciation.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "EUR Rates: Looking beyond the easing cycle",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250723_eurates.xml",
+          "date": "2025-07-23"
+        },
+        {
+          "content": "**Chang Wei Liang (FX & Credit Strategist, DBS Group Research):** The Euro (EUR) has appreciated over 13% against the USD this year, reaching its highest valuation since April 2008, driven by capital outflows from US markets amid concerns over Trump policies.",
+          "reason": "The significant appreciation of the EUR against the USD indicates strong demand and confidence in the Euro, which is a bullish signal for its future performance.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "DEER: EUR and JPY on watch",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_portal_deer.xml",
+          "date": "2025-07-22"
+        },
+        {
+          "content": "**European Central Bank Officials (ECB):** Warned that further euro strength beyond 1.20 could suppress inflation below the 2% target and negatively impact exports.",
+          "reason": "The warning from ECB officials about the potential negative impacts of a stronger Euro on inflation and exports suggests a bearish outlook, as it indicates concerns over the sustainability of EUR strength.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Another steep DXY decline hindered by JPY and EUR uncertainties",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_fx.xml",
+          "date": "2025-07-22"
+        },
+        {
+          "content": "**DBS (Economic Research Team, DBS Bank): Strongly recommends long EUR positions, anticipating appreciation against the USD and other major currencies.**",
+          "reason": "The strong recommendation for long EUR positions indicates a bullish sentiment, suggesting that analysts expect the Euro to appreciate further against major currencies.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Global Currencies 3Q25 – A Weaker USD Trajectory",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_GlobalCurrencies.xml",
+          "date": "2025-07-14"
+        },
+        {
+          "content": "**Euro Appreciation:** Expected to reach approximately 14% against the US dollar in 2025, potentially impacting eurozone exports.",
+          "reason": "The expectation of a 14% appreciation against the USD is a strong bullish indicator for the Euro, suggesting robust performance in the near future.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – Drama on trade policy leaves markets unmoved",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-drama-on-trade-policy-leaves-markets-unmoved/",
+          "date": "2025-07-09"
+        },
+        {
+          "content": "**Ursula von der Leyen (President, European Commission):** Stated the EU would suspend countermeasures until early August, emphasizing a preference for a negotiated solution.",
+          "reason": "While this statement is more neutral, it indicates a preference for stability and negotiation, which could be seen as a supportive factor for the Euro, but lacks strong bullish or bearish sentiment.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "DBS Bank",
+          "title": "Downside risks in the EUR, GBP, and JPY",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250714_fx.xml",
+          "date": "2025-07-14"
+        },
+        {
+          "content": "**European Central Bank (ECB): Expected to hold rates steady until September, with a focus on whether to remain cautious or prepare for easing later in the year.**",
+          "reason": "The expectation of steady rates suggests a cautious approach, which could be interpreted as neutral for the Euro, indicating no immediate bullish or bearish pressure.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#market-commentary",
+          "date": "2025-07-21"
+        }
+      ]
+    },
+    "GBP": {
+      "asset": "GBP",
+      "overall sentiment": "SELL",
+      "overall sentiment score": -0.33,
+      "summary": "The overall sentiment for GBP is SELL, primarily driven by the recent economic performance. The GBP has been identified as the second worst performer due to two consecutive negative GDP growth prints in April-May. This economic weakness has increased expectations for rate cuts by the Bank of England, which typically has a bearish impact on a currency. While there are neutral outlooks on UK gilts and expectations of lower month-on-month inflation, these factors are not strong enough to offset the negative sentiment stemming from the GDP figures and the anticipation of rate cuts. Therefore, a SELL recommendation is appropriate given the current economic indicators.",
+      "evidence": [
+        {
+          "content": "GBP has shifted to the second worst performer due to two consecutive negative GDP growth prints in April-May, raising rate cut expectations ahead of the Bank of England meeting on August 7.",
+          "reason": "The negative GDP growth prints indicate economic weakness, leading to expectations of rate cuts, which is bearish for GBP.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "US CPI surprise may not echo jobs report impact",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250715_fx.xml",
+          "date": "2025-07-15"
+        },
+        {
+          "content": "**Investment Team (Report): Neutral on UK gilts, monitoring the impact of U.S. yields on the UK's fiscal space as gilt yields have decreased from their highs.",
+          "reason": "The neutral stance on UK gilts suggests a cautious outlook, indicating that while there may not be immediate bearish sentiment, it does not signal bullishness for GBP either.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**UK Inflation:** UK CPI inflation is expected to halve to 0.1% MoM in June, maintaining headline inflation unchanged at 3.4% YoY.",
+          "reason": "The expectation of significantly lower month-on-month inflation could indicate easing price pressures, which may lead to a more favorable outlook for GBP, but the overall impact remains uncertain.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "DBS Bank",
+          "title": "Downside risks in the EUR, GBP, and JPY",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250714_fx.xml",
+          "date": "2025-07-14"
+        }
+      ]
+    },
+    "European Bonds": {
+      "asset": "European Bonds",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.6666666666666666,
+      "summary": "The overall sentiment for European Bonds is BUY, driven by several positive indicators. BlackRock's commentary highlights a preference for European Fixed Income due to a stable fiscal outlook and strong financial earnings, particularly in European bank debt, which is a strong bullish signal. Although BlackRock's investment team is neutral on Euro area government bonds, they find yields attractive, suggesting underlying value. Furthermore, DBS Bank's analysis indicates that Eurozone CPI readings are stable around 2% and inflation expectations have stabilized, leading to limited downside for nominal EUR rates. These factors collectively point to a favorable environment for European Bonds, supporting a BUY recommendation.",
+      "evidence": [
+        {
+          "content": "Preference for European Fixed Income: Based on a more stable fiscal outlook, particularly favoring European bank debt due to strong financial earnings and insulation from tariff impacts.",
+          "reason": "The mention of a stable fiscal outlook and strong financial earnings for European banks suggests a positive environment for European bonds, indicating a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#market-commentary",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "Investment Team (Report): Neutral on Euro area government bonds, finding yields attractive and preferring peripheral bonds in Italy and Spain.",
+          "reason": "While the sentiment is neutral, the attractiveness of yields suggests potential for positive performance in the Euro area government bonds, indicating a cautiously optimistic view.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#asset-class-views",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "Eugene Leow (Senior Rates Strategist, G3 & Asia): Notes Eurozone CPI readings are around 2% and inflation expectations have stabilized around 1.75%, indicating limited downside to nominal EUR rates.",
+          "reason": "The stabilization of inflation expectations and the indication of limited downside to nominal rates suggest a supportive environment for European bonds, reflecting a bullish outlook.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "EUR Rates: Looking beyond the easing cycle",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250723_eurates.xml",
+          "date": "2025-07-23"
+        }
+      ]
+    },
+    "European Funds": {
+      "asset": "European Funds",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.5,
+      "summary": "The overall sentiment for European Funds is BUY, driven by several positive indicators. There is a strong preference for European Fixed Income due to a stable fiscal outlook and robust financial earnings of European banks. Furthermore, significant inflows into EU Equity Funds demonstrate strong investor confidence. The European Central Bank's potential for easing monetary policy could further stimulate economic growth. While a strong Euro might negatively impact exports, the overall outperformance of European equities compared to US equities suggests a favorable investment environment for European Funds.",
+      "evidence": [
+        {
+          "content": "Preference for European Fixed Income: Based on a more stable fiscal outlook, particularly favoring European bank debt due to strong financial earnings and insulation from tariff impacts.",
+          "reason": "The mention of a stable fiscal outlook and strong financial earnings for European banks suggests a positive environment for European Fixed Income, indicating a bullish sentiment towards European Funds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BlackRock",
+          "title": "Preference for European Fixed Income",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#market-commentary",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "Equity Funds: Developed Market Equity Funds saw inflows of USD 4.6 billion during the week ending July 16; EU Equity Funds recorded USD 3 billion in inflows.",
+          "reason": "The significant inflows into EU Equity Funds indicate strong investor confidence and demand, which is a bullish signal for the performance of European Funds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Equity Funds: Developed Market Equity Funds saw inflows of USD 4.6 billion during the week ending July 16; EU Equity Funds recorded USD 3 billion in inflows.",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250723EquitiesWeekly.xml",
+          "date": "2025-07-23"
+        },
+        {
+          "content": "**European Central Bank (ECB): Expected to hold rates steady until September, with a focus on whether to remain cautious or prepare for easing later in the year.**",
+          "reason": "The ECB's potential for easing monetary policy could stimulate economic growth and support European Funds, indicating a bullish outlook.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BlackRock",
+          "title": "Weekly Market Commentary 2025-07-21",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary#market-commentary",
+          "date": "2025-07-21"
+        },
+        {
+          "content": "**Euro Appreciation: Expected to reach approximately 14% against the US dollar in 2025, potentially impacting eurozone exports.**",
+          "reason": "While euro appreciation could negatively impact exports, it also reflects a stronger eurozone economy, which can be seen as a bullish indicator for European Funds in the long term.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – Drama on trade policy leaves markets unmoved",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-drama-on-trade-policy-leaves-markets-unmoved/",
+          "date": "2025-07-09"
+        },
+        {
+          "content": "**European Central Bank Officials (ECB):** Warned that further euro strength beyond 1.20 could suppress inflation below the 2% target and negatively impact exports.",
+          "reason": "The warning about euro strength suggests potential challenges for the eurozone economy, which could be bearish for European Funds if it leads to reduced export competitiveness.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "Another steep DXY decline hindered by JPY and EUR uncertainties",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_fx.xml",
+          "date": "2025-07-22"
+        },
+        {
+          "content": "**European Equities vs. US Equities:** European equities have outperformed US equities when evaluated in US dollars, indicating global investor pessimism about US economic prospects amid trade war anxiety.",
+          "reason": "The outperformance of European equities suggests a favorable investment environment for European Funds, indicating a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "Deloitte",
+          "title": "Weekly global economic update 2025-07-22",
+          "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
+          "date": "2025-07-22"
+        }
+      ]
+    },
+    "European Real Estate": {
+      "asset": "European Real Estate",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.5,
+      "summary": "The European Real Estate market presents a mixed but predominantly positive outlook. While there are concerns regarding internal barriers and regulatory hurdles, which could act as a significant drag on growth, there are strong indications of positive developments. Reforms in European tax regimes are attracting talent and positioning Europe as a competitive investment destination. Furthermore, the push for a strong capital market and increased investor engagement suggests a supportive environment for real estate. The market also offers fragmented opportunities that could benefit from local presence advantages. Given these factors, particularly the positive impact of tax reforms and the focus on capital market strength, we recommend a BUY strategy for European Real Estate.",
+      "evidence": [
+        {
+          "content": "**Mario Draghi (Former President, European Central Bank): Europe’s internal barriers and regulatory hurdles are equivalent to a tariff of 110% for services and 45% for manufacturing.",
+          "reason": "This statement highlights significant regulatory challenges that could hinder growth in the European Real Estate sector, indicating a bearish outlook.",
+          "sentiment score": -1,
+          "sentiment": "Bearish",
+          "source": "GoldmanSachs",
+          "title": "The Future of European Defense",
+          "url": "https://www.goldmansachs.com/insights/articles/the-future-of-european-defense"
+        },
+        {
+          "content": "**David Solomon (CEO, Goldman Sachs): Reforms in European tax regimes are attracting talent, positioning Europe as a competitive investment destination within one of the largest economies globally.",
+          "reason": "This indicates a positive shift in the investment landscape for Europe, suggesting potential growth in European Real Estate, which is a bullish signal.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "GoldmanSachs",
+          "title": "The Future of European Defense",
+          "url": "https://www.goldmansachs.com/insights/articles/the-future-of-european-defense"
+        },
+        {
+          "content": "**EU: A strong capital market is crucial for a Europe-wide ‘Savings & Investments Union,’ requiring robust engagement from institutional and retail investors.",
+          "reason": "The emphasis on strong capital markets and investor engagement suggests a supportive environment for European Real Estate, indicating a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "GoldmanSachs",
+          "title": "The Future of European Defense",
+          "url": "https://www.goldmansachs.com/insights/articles/the-future-of-european-defense"
+        },
+        {
+          "content": "**Mathieu Forcioli (Global Head of Alternatives, HSBC):** While the US direct lending market is the most developed, Europe presents fragmented opportunities that may benefit from local presence advantages.",
+          "reason": "This suggests that despite challenges, there are unique opportunities in the European Real Estate market that could lead to positive outcomes, indicating a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "HSBC",
+          "title": "Zooming In: Navigating Challenges and Leveraging Opportunities in Private Credit",
+          "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/video-transcripts/wih/investment-insights/house-views/2025/Zooming In - July 2025 - Transcript.pdf"
+        }
+      ]
+    }
+  },
+  "Vietnam Assets": {
+    "Vietnam Stock": {
+      "asset": "Vietnam Stock",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.3333333333333333,
+      "summary": "The overall sentiment for Vietnam Stock is BUY, driven by a combination of factors. While the new trade agreement imposing tariffs on Vietnamese exports to the US presents a bearish signal, the robust performance of the US economy and the continued strength of external demand for Vietnam's products provide strong bullish indicators. The positive impact of a healthy US economy on export demand and the general reliance on external demand for growth outweigh the negative implications of the tariffs, leading to a favorable outlook for Vietnam Stock. Therefore, a BUY recommendation is issued, suggesting that investors consider increasing their exposure to Vietnam Stock, anticipating continued growth driven by external economic factors.",
+      "evidence": [
+        {
+          "content": "US Government: The US and Vietnam have reached a trade agreement imposing a 20% tariff on Vietnamese exports to the US and a 40% tariff on goods transshipped through Vietnam. Countries with high trade surpluses with the US may face higher tariffs, particularly those acting as transshipment hubs for Chinese goods. The effective tariff rate is forecasted to be around 15%, assuming a 30-40% rate specifically on Chinese exports.",
+          "reason": "The imposition of significant tariffs on Vietnamese exports to the US is likely to negatively impact Vietnam's trade balance and economic growth, leading to a bearish outlook for Vietnam Stock.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Markets await more trade news after US-Vietnam deal",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-03072025.onlycontent.html",
+          "date": "2025-07-03"
+        },
+        {
+          "content": "General (Economic Performance): US economy remains robust, with June industrial production growth at 0.3%, retail sales (excluding cars and fuel) up 0.5%, and non-farm payrolls increasing by 147,000.",
+          "reason": "A robust US economy can lead to increased demand for Vietnamese exports, which may positively influence Vietnam Stock, indicating a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "BNP Paribas",
+          "title": "Weekly Market Update – The dog that didn’t bite",
+          "url": "https://www.bnpparibas-am.com/en-sg/institutional/front-of-mind/weekly-market-update-the-dog-that-didnt-bite/",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "External demand remains a key driver for year-to-date growth.",
+          "reason": "Highlighting external demand as a key growth driver suggests a positive outlook for Vietnam's economy and stock market, leading to a bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "Morgan Stanley",
+          "title": "Weekly Update 2025-07-21",
+          "url": "https://am.jpmorgan.com/sg/en/asset-management/per/insights/market-insights/market-updates/weekly-market-recap/",
+          "date": "2025-07-21"
+        }
+      ]
+    },
+    "VND": {
+      "asset": "VND",
+      "overall sentiment": "HOLD",
+      "overall sentiment score": 0.0,
+      "summary": "The available evidence for VND is limited to a single article discussing US trade policies with Mexico and Canada. While this information is related to trade, it does not directly provide a clear bullish or bearish sentiment for the Vietnamese Dong (VND). Therefore, based on the provided evidence, a 'HOLD' recommendation is appropriate, as there is no strong indication for either buying or selling the asset.",
+      "evidence": [
+        {
+          "content": "**US Government:** Mexico and Canada are not subject to the 10% baseline or 'reciprocal' tariffs and have made progress on border issues.",
+          "reason": "The content discusses trade dynamics involving the US, which could indirectly affect the VND through trade relations. However, it does not provide a clear bullish or bearish sentiment specifically for the VND.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "UBS",
+          "title": "Markets await more trade news after US-Vietnam deal",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-03072025.onlycontent.html",
+          "date": "2025-07-03"
+        }
+      ]
+    },
+    "Vietnam Bonds": {
+      "asset": "Vietnam Bonds",
+      "overall sentiment": "SELL",
+      "overall sentiment score": -0.6666666666666666,
+      "summary": "The overall sentiment for Vietnam Bonds is SELL, primarily driven by concerns surrounding trade agreements and potential economic pain. The US-Vietnam trade agreement imposing significant tariffs on Vietnamese exports and transshipped goods is a strong bearish signal, as it is expected to negatively impact Vietnam's economy. Furthermore, the reliance of Vietnam's US goods exports on Chinese value-added content suggests that Vietnam may suffer economically from these tariffs. While there is a slight possibility of easing trade tensions through new deals, the immediate outlook points to higher tariffs and economic challenges. Therefore, a SELL recommendation is prudent given these prevailing bearish indicators.",
+      "evidence": [
+        {
+          "content": "**US Government:** The US and Vietnam have reached a trade agreement imposing a 20% tariff on Vietnamese exports to the US and a 40% tariff on goods transshipped through Vietnam. Countries with high trade surpluses with the US may face higher tariffs, particularly those acting as transshipment hubs for Chinese goods. The effective tariff rate is forecasted to be around 15%, assuming a 30-40% rate specifically on Chinese exports.",
+          "reason": "The imposition of high tariffs on Vietnamese exports is likely to negatively impact Vietnam's economy, leading to reduced trade and potential economic pain, which is bearish for Vietnam Bonds.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Markets await more trade news after US-Vietnam deal",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-03072025.onlycontent.html",
+          "date": "2025-07-03"
+        },
+        {
+          "content": "**Nomura (Research Firm):** Nearly 19% of Vietnam’s US goods exports reflect Chinese value added, indicating potential economic pain for Vietnam compared to China.",
+          "reason": "The reliance on Chinese value added in exports suggests that Vietnam may suffer economically due to the tariffs, which is a bearish indicator for Vietnam Bonds.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Markets await more trade news after US-Vietnam deal",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-03072025.onlycontent.html",
+          "date": "2025-07-03"
+        },
+        {
+          "content": "**Trade Analysts (Report):** Limited trade deals with Vietnam and Indonesia suggest potential for higher tariffs post-August 1, but easing trade tensions through new deals cannot be ruled out.",
+          "reason": "The mention of potential higher tariffs is bearish, but the possibility of easing trade tensions offers a glimmer of hope, making this content more neutral overall.",
+          "sentiment score": 0,
+          "sentiment": "neutral",
+          "source": "DBS Bank",
+          "title": "USD’s correction could take a breather",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250716_fx.xml",
+          "date": "2025-07-16"
+        }
+      ]
+    },
+    "Vietnam Funds": {
+      "asset": "Vietnam Funds",
+      "overall sentiment": "SELL",
+      "overall sentiment score": -0.33,
+      "summary": "The outlook for Vietnam Funds appears challenging, primarily due to concerns surrounding trade relations and potential economic vulnerabilities. While there was a positive signal regarding a potential reduction in tariffs on Vietnamese products following a state visit by President Trump, suggesting improved trade relations, this positive sentiment is overshadowed by two significant bearish indicators. Firstly, a substantial portion of Vietnam's US goods exports reflect Chinese value added, indicating a potential economic pain point for Vietnam if trade tensions escalate or if there are shifts in global supply chains. Secondly, the possibility of higher tariffs post-August 1, stemming from limited trade deals with Vietnam and Indonesia, presents a clear downside risk. Although the easing of trade tensions through new deals is not ruled out, the current uncertainty and the potential for increased trade barriers suggest a cautious approach. Therefore, the recommendation is to SELL Vietnam Funds, as the negative factors currently outweigh the positive developments, indicating a likely downward pressure on the asset.",
+      "evidence": [
+        {
+          "content": "Vietnam's State Media: President Trump has been invited for a state visit to Vietnam, and tariffs on several Vietnamese products are expected to be significantly reduced.",
+          "reason": "The expected reduction in tariffs on Vietnamese products due to a state visit by President Trump is a positive development, suggesting improved trade relations and potential economic benefits for Vietnam, which is bullish for Vietnam Funds.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "UBS",
+          "title": "Markets await more trade news after US-Vietnam deal",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-03072025.onlycontent.html"
+        },
+        {
+          "content": "Nomura (Research Firm): Nearly 19% of Vietnam’s US goods exports reflect Chinese value added, indicating potential economic pain for Vietnam compared to China.",
+          "reason": "The indication that a significant portion of Vietnam's exports are tied to Chinese value added suggests vulnerability in Vietnam's economy, which could negatively impact Vietnam Funds, making this a bearish signal.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "UBS",
+          "title": "Markets await more trade news after US-Vietnam deal",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-03072025.onlycontent.html"
+        },
+        {
+          "content": "Trade Analysts (Report): Limited trade deals with Vietnam and Indonesia suggest potential for higher tariffs post-August 1, but easing trade tensions through new deals cannot be ruled out.",
+          "reason": "The mention of potential higher tariffs is a bearish indicator for Vietnam Funds, as it suggests increased trade barriers that could negatively affect Vietnam's export-driven economy.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "DBS Bank",
+          "title": "USD’s correction could take a breather",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250716_fx.xml"
+        }
+      ]
+    },
+    "Vietnam Real Estate": {
+      "asset": "Vietnam Real Estate",
+      "overall sentiment": "SELL",
+      "overall sentiment score": -1.0,
+      "summary": "The outlook for Vietnam Real Estate is bearish due to the recently announced trade agreement between the US and Vietnam. This agreement imposes significant tariffs on Vietnamese exports to the US (20%) and even higher tariffs on goods transshipped through Vietnam (40%). This will likely lead to increased costs for Vietnamese businesses, potentially impacting their profitability and subsequently reducing demand for real estate. The forecasted effective tariff rate of around 15% (with 30-40% on Chinese exports transshipped through Vietnam) suggests a substantial economic headwind for the Vietnamese economy, which could translate into a downturn for the real estate sector. Therefore, a 'SELL' recommendation is issued for Vietnam Real Estate.",
+      "evidence": [
+        {
+          "content": "US Government: The US and Vietnam have reached a trade agreement imposing a 20% tariff on Vietnamese exports to the US and a 40% tariff on goods transshipped through Vietnam. Countries with high trade surpluses with the US may face higher tariffs, particularly those acting as transshipment hubs for Chinese goods. The effective tariff rate is forecasted to be around 15%, assuming a 30-40% rate specifically on Chinese exports.",
+          "reason": "The imposition of high tariffs on Vietnamese exports could negatively impact the economy, leading to reduced demand for real estate as businesses may face increased costs and decreased profitability.",
+          "sentiment score": -1,
+          "sentiment": "Bearish",
+          "source": "UBS",
+          "title": "Markets await more trade news after US-Vietnam deal",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-03072025.onlycontent.html",
+          "date": "2025-07-03"
         }
       ]
     }
