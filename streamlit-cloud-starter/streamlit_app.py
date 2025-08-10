@@ -221,8 +221,8 @@ elif PAGE == 'Original & Summary':
             "Original Text",
             value=st.session_state.get('original_text', ''),
             height=180,
-            placeholder="Higher-for-longer policy rates have made this the best backdrop for earning income in bonds in two decades – without taking more interest rate or credit risk. We favor a mix of income sources. We like short-term government bonds: the U.S. budget bill passed last month highlighted a lack of fiscal discipline, while sticky inflation limits rate cuts, keeping us tactically cautious on long-term bonds. In credit, resilient growth has kept corporate balance sheets solid even with tariffs.
-
+            placeholder="""Higher-for-longer policy rates have made this the best backdrop for earning income in bonds in two decades – without taking more interest rate or credit risk. We favor a mix of income sources. We like short-term government bonds: the U.S. budget bill passed last month highlighted a lack of fiscal discipline, while sticky inflation limits rate cuts, keeping us tactically cautious on long-term bonds. In credit, resilient growth has kept corporate balance sheets solid even with tariffs." \
+            "
 Income is back — Fixed income assets with yields of 4% or larger, 2000-2025.
 After the global financial crisis (GFC), bond yields slid as central banks slashed policy rates to near zero or below and bought bonds. That left investors starved of income unless they took risk in long-term bonds. In a stark switch-up, some 80% of global fixed income assets now offer yields above 4% as interest rates have settled above pre-pandemic levels. See the chart. That’s made assets like credit, mortgage-backed securities and emerging market debt more attractive. We have seen notable bond market developments this year. Credit spreads have been relatively steady even with sharp equity volatility. And investors are demanding more compensation for the risk of holding long-term bonds, leading to a steepening of global yield curves. The curve between five- and 30-year U.S. Treasury yields has more than doubled this year to its steepest levels since 2021, according to LSEG data.
 
@@ -255,7 +255,7 @@ The table below reflects our views on a tactical horizon and, importantly, leave
 Euro-denominated tactical granular views.
 Six- to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, July 2025.
 
-Legend Granular."
+Legend Granular."""
         )
         st.session_state['summary_text'] = st.text_area(
             "Summary",
@@ -277,8 +277,7 @@ Legend Granular."
 "Content": "Japan: 30-year yields recently hit a record high amid discussions of tax cuts before elections, indicating global fiscal sustainability concerns.",
 "Content": "Preference for European Fixed Income: Based on a more stable fiscal outlook, particularly favoring European bank debt due to strong financial earnings and insulation from tariff impacts."
 
-"
-       ''' )
+''' )
 
     original = st.session_state.get('original_text', '')
     summary  = st.session_state.get('summary_text', '')
