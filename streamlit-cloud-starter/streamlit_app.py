@@ -289,5 +289,5 @@ Legend Granular.'''
             unsafe_allow_html=True
         )
 
-    render_panel_with_count("Original Text", ORIGINAL_TEXT)
-    render_panel_with_count("Summary", SUMMARY_TEXT)
+    render_panel_with_word_count("Original Text", ORIGINAL_TEXT)
+    render_panel_with_word_count("Summary", SUMMARY_TEXT)
