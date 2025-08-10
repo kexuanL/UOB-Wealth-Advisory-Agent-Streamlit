@@ -49,12 +49,32 @@ def boxed_names(lst):
         for x in lst
     )
 
+def render_panel(title: str, text: str):
+    """A vertical panel with a centered, boxed title and body text below."""
+    st.markdown(
+        f"""
+        <div style="border:1px solid #E6E8EB;border-radius:1rem;padding:1rem 1.2rem;margin-bottom:1rem;background:#ffffff">
+            <div style="border:2px solid #D0D7DE;border-radius:.8rem;padding:.5rem 1rem;margin-bottom:.9rem;
+                        text-align:center;font-weight:800;font-size:1.05rem;">
+                {title}
+            </div>
+            <div style="white-space:pre-wrap;line-height:1.65;font-size:1rem;color:#222">
+                {text if text.strip() else "<span style='color:#999'>（待填）</span>"}
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
 # ────────────────────────── Load data ─────────────────────────
 DATA = load_json(DATA_PATH)
 
 # ────────────────────────── Sidebar nav ───────────────────────
 st.sidebar.title('☰ Navigation')
-PAGE = st.sidebar.radio('Select page', ('Article Inventory', 'Sentiment Ranking', 'Asset Dashboard'))
+PAGE = st.sidebar.radio(
+    'Select page',
+    ('Article Inventory', 'Sentiment Ranking', 'Asset Dashboard', 'Original & Summary')
+)
 
 # ════════════════════ Page 1 · Article Inventory ════════════════════
 if PAGE == 'Article Inventory':
@@ -190,3 +210,29 @@ elif PAGE == 'Asset Dashboard':
         st.markdown(df_e.to_markdown(index=False), unsafe_allow_html=True)
     else:
         st.info('No evidence available.')
+
+# ════════════════════ Page 4 · Original & Summary ═══════════════════
+elif PAGE == 'Original & Summary':
+    st.title("📝 Original & Summary")
+
+    # 可选：在页面里直接粘贴/修改文本（不影响下面的“展示区”的样式）
+    with st.expander("✏️ Add / edit text (optional)"):
+        st.session_state['original_text'] = st.text_area(
+            "Original Text",
+            value=st.session_state.get('original_text', ''),
+            height=180,
+            placeholder="Paste the original text here…"
+        )
+        st.session_state['summary_text'] = st.text_area(
+            "Summary",
+            value=st.session_state.get('summary_text', ''),
+            height=180,
+            placeholder="Paste the summary here…"
+        )
+
+    # 展示区：上下两个 panel；标题框住且居中，标题下接正文
+    original = st.session_state.get('original_text', '')
+    summary  = st.session_state.get('summary_text', '')
+
+    render_panel("Original Text", original)
+    render_panel("Summary", summary)
