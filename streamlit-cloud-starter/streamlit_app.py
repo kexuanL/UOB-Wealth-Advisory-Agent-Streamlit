@@ -221,16 +221,65 @@ elif PAGE == 'Original & Summary':
             "Original Text",
             value=st.session_state.get('original_text', ''),
             height=180,
-            placeholder="Paste the original text here…"
+            placeholder="Higher-for-longer policy rates have made this the best backdrop for earning income in bonds in two decades – without taking more interest rate or credit risk. We favor a mix of income sources. We like short-term government bonds: the U.S. budget bill passed last month highlighted a lack of fiscal discipline, while sticky inflation limits rate cuts, keeping us tactically cautious on long-term bonds. In credit, resilient growth has kept corporate balance sheets solid even with tariffs.
+
+Income is back — Fixed income assets with yields of 4% or larger, 2000-2025.
+After the global financial crisis (GFC), bond yields slid as central banks slashed policy rates to near zero or below and bought bonds. That left investors starved of income unless they took risk in long-term bonds. In a stark switch-up, some 80% of global fixed income assets now offer yields above 4% as interest rates have settled above pre-pandemic levels. See the chart. That’s made assets like credit, mortgage-backed securities and emerging market debt more attractive. We have seen notable bond market developments this year. Credit spreads have been relatively steady even with sharp equity volatility. And investors are demanding more compensation for the risk of holding long-term bonds, leading to a steepening of global yield curves. The curve between five- and 30-year U.S. Treasury yields has more than doubled this year to its steepest levels since 2021, according to LSEG data.
+
+We see abundant opportunities to earn income. We prefer short- and medium-term government bonds given yields near 4%. Markets are pricing in multiple Federal Reserve rate cuts over the next year. Yet we see sticky inflation limiting rate cuts – even as renewed rate hikes are unlikely. Our preference is partly driven by our caution on long-term bonds due to the lack of U.S. fiscal discipline and sticky inflation – though we could see occasional sharp rallies. The U.S. is issuing nearly $500 billion of debt weekly to fund its persistent budget deficits, per Haver Analytics. And the Congressional Budget Office expects the One Big Beautiful Bill to only add to deficits in the near term. Trade tensions could cool foreign demand at a time when sustaining U.S. debt relies on their ongoing buying – as we noted in our 2025 Midyear Outlook. We’re watching the market’s ability to absorb heavy Treasury issuance. Fiscal sustainability is not just a U.S. story: In Japan, 30-year yields hit a record high last week as policymakers floated tax cuts before Sunday’s upper house election.
+
+Where we find income.
+Higher U.S. policy rates mean interest rate differentials between the U.S. and other countries stay wide, revealing an array of global fixed income opportunities. That’s because hedging foreign bonds back into U.S. dollars boosts the income they offer. Some euro area bonds, like Spain, offer yields above 5% with such hedging – higher than U.S. equivalents. Credit has become a clear choice for quality. Spreads are historically tight, yet credit income remains attractive as balance sheets have held up alongside growth, even with tariff uncertainty. Default rates for U.S. high yield credit remain about half the 25-year average, according to J.P. Morgan data. We prefer European fixed income over the U.S. given a more stable fiscal outlook, especially European bank debt given strong financial earnings and insulation from tariff impacts.
+
+We get selective across and within regions. We went overweight U.S. agency mortgage-backed securities (MBS): spreads are wider than historical averages and we could see some investors switch from long-term Treasuries. We upped local currency emerging market (EM) debt to neutral this month: it has weathered U.S. trade policy shifts, and debt levels have improved.
+
+Our bottom line.
+We like a mix of income opportunities but stay selective due to fiscal sustainability risks. We favor short- and medium-term government bonds, U.S. agency MBS, currency-hedged international bonds and local currency EM debt.
+
+Market backdrop.
+The S&P 500 hit new record highs last week, helped by signs of U.S. economic resilience in strong U.S. retail sales data. U.S. corporate earnings season kicked off with some big tech companies, putting renewed focus on artificial intelligence and capital spending. The index quickly recovered from reports that U.S. President Donald Trump discussed removing Fed Chair Jerome Powell, which Trump denied. Thirty-year Treasury yields ended the week steady at 4.99%, near May’s two-year high.
+
+This week, we’re watching the European Central Bank’s (ECB) policy decision. We expect it to hold rates steady until September. The central bank now sees policy rates within a neutral range that neither stimulates nor restricts economic activity, inflation remains around its 2% target, and euro area growth shows little change. We watch for signals on whether the ECB will stay cautious or begin laying the groundwork for easing later this year.
+
+Read our past weekly market commentaries.
+
+Big calls.
+Our highest conviction views on tactical (6-12 month) and strategic (long-term) horizons, July 2025.
+
+Tactical granular views.
+Six- to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, July 2025.
+
+Legend Granular.
+The table below reflects our views on a tactical horizon and, importantly, leaves aside the opportunity for alpha, or the potential to generate above-benchmark returns – especially at times of heightened volatility.
+
+Euro-denominated tactical granular views.
+Six- to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, July 2025.
+
+Legend Granular."
         )
         st.session_state['summary_text'] = st.text_area(
             "Summary",
             value=st.session_state.get('summary_text', ''),
             height=180,
-            placeholder="Paste the summary here…"
-        )
+            placeholder='''"Content": "U.S. Treasury (Haver Analytics): Issuing nearly $500 billion of debt weekly to fund budget deficits, raising concerns about fiscal sustainability.",
+"Content": "European Central Bank (ECB): Expected to hold rates steady until September, with a focus on whether to remain cautious or prepare for easing later in the year.",
+"Content": "LSEG Data: Indicates U.S. Treasury yields have risen to their steepest levels since 2021, with the curve between five- and 30-year yields more than doubling this year.",
+"Content": "J.P. Morgan (Analyst team, J.P. Morgan): Reports that default rates for U.S. high yield credit remain about half the 25-year average, indicating credit remains attractive despite tariff uncertainty.",
+"Content": "Investment Analysts: Favor short- and medium-term government bonds due to yields near 4% and sticky inflation limiting Federal Reserve rate cuts; caution advised on long-term bonds.",
+"Content": "Investment Analysts: Recommend overweighting U.S. agency mortgage-backed securities (MBS) due to wider spreads than historical averages.",
+"Content": "Investment Analysts: Highlight that approximately 80% of global fixed income assets now offer yields above 4%, making credit, mortgage-backed securities, and emerging market debt more attractive.",
+"Content": "Investment Analysts: Upped local currency emerging market (EM) debt to neutral, citing improved debt levels and resilience to U.S. trade policy shifts.",
+"Content": "S&P 500: Hit new record highs last week, driven by strong U.S. retail sales data indicating U.S. economic resilience.",
+"Content": "Market Participants: Looking for signals from the ECB regarding potential easing measures later this year, as inflation remains around the 2% target and euro area growth shows little change.",
+"Content": "Markets: Pricing in multiple Federal Reserve rate cuts over the next year, yet sticky inflation limits rate cuts.",
+"Content": "Higher U.S. policy rates: Mean interest rate differentials between the U.S. and other countries stay wide, revealing an array of global fixed income opportunities.",
+"Content": "Trade Tensions: Could cool foreign demand for U.S. debt, which is crucial for sustaining its issuance, as noted in 2025 Midyear Outlook.",
+"Content": "Japan: 30-year yields recently hit a record high amid discussions of tax cuts before elections, indicating global fiscal sustainability concerns.",
+"Content": "Preference for European Fixed Income: Based on a more stable fiscal outlook, particularly favoring European bank debt due to strong financial earnings and insulation from tariff impacts."
 
-    # 展示区：上下两个 panel；标题框住且居中，标题下接正文
+"
+       ''' )
+
     original = st.session_state.get('original_text', '')
     summary  = st.session_state.get('summary_text', '')
 
