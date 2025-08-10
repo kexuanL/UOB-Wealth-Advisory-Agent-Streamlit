@@ -268,8 +268,9 @@ Legend Granular.'''
 "Content": "Japan: 30-year yields recently hit a record high amid discussions of tax cuts before elections, indicating global fiscal sustainability concerns.",
 "Content": "Preference for European Fixed Income: Based on a more stable fiscal outlook, particularly favoring European bank debt due to strong financial earnings and insulation from tariff impacts."'''
 
-    def render_panel_with_count(title: str, text: str):
-        char_count = len(text)
+    def render_panel_with_word_count(title: str, text: str):
+        # 按空白符切分，过滤空字符串
+        word_count = len([w for w in text.split() if w.strip()])
         st.markdown(
             f"""
             <div style="border:1px solid #E6E8EB;border-radius:1rem;padding:1rem 1.2rem;margin-bottom:1rem;background:#ffffff">
@@ -281,7 +282,7 @@ Legend Granular.'''
                     {text if text.strip() else "<span style='color:#999'>（空）</span>"}
                 </div>
                 <div style="margin-top:.6rem;color:#555;font-size:0.9rem;">
-                    Word Counter：<b>{char_count}</b> Words
+                    Word Count：<b>{word_count}</b> words
                 </div>
             </div>
             """,
