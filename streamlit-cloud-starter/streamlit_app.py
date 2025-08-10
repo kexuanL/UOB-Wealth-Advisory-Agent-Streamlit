@@ -73,7 +73,7 @@ DATA = load_json(DATA_PATH)
 st.sidebar.title('☰ Navigation')
 PAGE = st.sidebar.radio(
     'Select page',
-    ('Article Inventory', 'Sentiment Ranking', 'Asset Dashboard', 'Original & Summary')
+    ('Article Inventory', 'Information Summarization Agent', 'Investment Direction Agent:Evidence', 'Investment Direction Agent:Score')
 )
 
 # ════════════════════ Page 1 · Article Inventory ════════════════════
@@ -104,8 +104,8 @@ if PAGE == 'Article Inventory':
                 )
 
 # ════════════════════ Page 2 · Sentiment Ranking ═══════════════════
-elif PAGE == 'Sentiment Ranking':
-    st.title('📊 Sentiment score ranking (-1 = bearish, +1 = bullish)')
+elif PAGE == 'Investment Direction Agent:Score':
+    st.title('📊 Investment Direction Agent: Sentiment Score')
 
     # ---- DataFrame of scores ----
     rows = [
@@ -164,7 +164,8 @@ elif PAGE == 'Sentiment Ranking':
     fig, ax = plt.subplots(figsize=(9, 0.45*len(df)+1))
     ax.barh(df.asset, df.score, color=df.color)
     ax.set_xlim(-1, 1); ax.axvline(0, color='#444', lw=1)
-    ax.set_xlabel('Sentiment score'); ax.invert_yaxis()
+    ax.set_xlabel('Sentiment score (-1 = bearish, +1 = bullish)'); ax.invert_yaxis()
+    ax.set_title('Sentiment Score Ranking of Assets')
     st.pyplot(fig, clear_figure=True)
 
     # ---- Download ----
@@ -175,7 +176,7 @@ elif PAGE == 'Sentiment Ranking':
             'sentiment_ranking.csv')
 
 # ════════════════════ Page 3 · Asset Dashboard ═══════════════════
-elif PAGE == 'Asset Dashboard':
+elif PAGE == 'Investment Direction Agent:Evidence':
     cls   = st.sidebar.selectbox('Select asset class', list(DATA))
     asset = st.sidebar.radio('Select asset', list(DATA[cls]))
     info  = DATA[cls][asset]
@@ -212,8 +213,8 @@ elif PAGE == 'Asset Dashboard':
         st.info('No evidence available.')
 
 # ════════════════════ Page 4 · Original & Summary ═══════════════════
-elif PAGE == 'Original & Summary':
-    st.title("📝 Original & Summary")
+elif PAGE == 'Information Summarization Agent':
+    st.title("📝 Original & Summary Example")
 
     # 固定两段文本
     ORIGINAL_TEXT = '''Higher-for-longer policy rates have made this the best backdrop for earning income in bonds in two decades – without taking more interest rate or credit risk. We favor a mix of income sources. We like short-term government bonds: the U.S. budget bill passed last month highlighted a lack of fiscal discipline, while sticky inflation limits rate cuts, keeping us tactically cautious on long-term bonds. In credit, resilient growth has kept corporate balance sheets solid even with tariffs.
