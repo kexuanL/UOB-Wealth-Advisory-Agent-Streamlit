@@ -1,205 +1,4 @@
 {
-  "Commodities": {
-    "Gold": {
-      "asset": "Gold",
-      "overall sentiment": "BUY",
-      "overall sentiment score": 0.8888888888888888,
-      "summary": "The overall sentiment for Gold is strongly bullish, indicating a 'BUY' recommendation. This assessment is based on multiple pieces of evidence highlighting Gold's role as a safe-haven asset, a long-term portfolio diversifier, and a central component in investment strategies amidst geopolitical and economic uncertainties. Several sources anticipate increased demand and record prices for Gold due to factors such as persistent inflation, geopolitical shifts, and de-dollarization. The recent surge in Gold prices due to haven demand further reinforces this positive outlook. Investors are advised to consider Gold for portfolio resilience and as a hedge against various risks.",
-      "evidence": [
-        {
-          "content": "Willem Sels (Unknown Role, HSBC): Diversification has proven effective; bonds and gold benefited from safe-haven flows while equities declined, and the US dollar maintained its safe-haven status despite concerns over deficits.",
-          "reason": "The mention of gold benefiting from safe-haven flows indicates a bullish outlook, as it suggests increased demand for gold during times of market uncertainty.",
-          "sentiment score": 1,
-          "sentiment": "Bullish",
-          "source": "HSBC",
-          "title": "Lessons from the conflict: building resilience through diversification is key,and it works – Monthly View – July 2025",
-          "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/video-transcripts/monthly-view/2025/monthly-view-july-2025-transcript.pdf",
-          "date": "2025-06-26"
-        },
-        {
-          "content": "Financial Analyst (unspecified publication): Investors in gold-related assets (ETFs, mutual funds) should assess gold's recent and longer-term performance, emphasizing the importance of understanding risks associated with these investments.",
-          "reason": "While this content highlights the need for risk assessment, it does not present a clear bullish or bearish sentiment, making it neutral regarding gold's future performance.",
-          "sentiment score": 0,
-          "sentiment": "Neutral",
-          "source": "Citibank",
-          "title": "What role might gold play in portfolios?",
-          "url": "https://www.privatebank.citibank.com/insights/what-role-might-gold-play-in-portfolios",
-          "date": "2025-07-07"
-        },
-        {
-          "content": "Gold is viewed as a long-term portfolio diversifier amid fiscal and geopolitical risks, with a year-end target of USD 3,500/oz.",
-          "reason": "The positive price target and characterization of gold as a diversifier amid risks suggest a bullish sentiment towards gold's future performance.",
-          "sentiment score": 1,
-          "sentiment": "Bullish",
-          "source": "UBS",
-          "title": "Gold Market (Investment Analysts, Gold Market)",
-          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-04072025.onlycontent.html",
-          "date": "2025-07-04"
-        },
-        {
-          "content": "Gold and technology equities are central to investment strategies, alongside investment-grade credit for income.",
-          "reason": "The emphasis on gold as a central component of investment strategies indicates a bullish outlook for its role in portfolios.",
-          "sentiment score": 1,
-          "sentiment": "Bullish",
-          "source": "DBS Bank",
-          "title": "CIO Insights 3Q25: The Global Pivot",
-          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/062025/CIOInsights3Q25.xml",
-          "date": "2025-06-26"
-        },
-        {
-          "content": "DBS (Analyst team, DBS): Gold is anticipated to gain traction as a safe-haven asset amid rising geopolitical uncertainty, with short-term demand driven by this uncertainty and long-term appeal bolstered by de-dollarization and fiat currency debasement.",
-          "reason": "The expectation of increased demand for gold due to geopolitical uncertainty and economic factors presents a strong bullish sentiment.",
-          "sentiment score": 1,
-          "sentiment": "Bullish",
-          "source": "DBS Bank",
-          "title": "Thematic 3Q25 - New World Order",
-          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_Thematic.xml",
-          "date": "2025-07-18"
-        },
-        {
-          "content": "**Jean Chia (Global Chief Investment Officer, Bank of Singapore):** Expect persistent inflation, higher interest rates, a weaker USD, record gold prices, and increased demand for safe-haven assets over the next five to ten years due to geopolitical shifts.",
-          "reason": "The forecast of record gold prices and increased demand due to inflation and geopolitical shifts indicates a very bullish sentiment for gold.",
-          "sentiment score": 1,
-          "sentiment": "Bullish",
-          "source": "OCBC",
-          "title": "2025 Supertrends: Rethinking Portfolios, Reimagining the World",
-          "url": "https://www.ocbc.com//premier-banking/market-insights/wealth-insights",
-          "date": "2025-07-01"
-        },
-        {
-          "content": "**DBS (Research Team, DBS Bank):** Advocates for a defensive investment strategy, focusing on alternatives like gold and income-generating private assets to ensure portfolio resilience amid a global shift from US financial asset dominance.",
-          "reason": "The advocacy for gold as part of a defensive investment strategy suggests a bullish sentiment towards its role in maintaining portfolio resilience.",
-          "sentiment score": 1,
-          "sentiment": "Bullish",
-          "source": "DBS Bank",
-          "title": "Asset Allocation 3Q25 – Everything Everywhere All at Once",
-          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_AA.xml",
-          "date": "2025-07-04"
-        },
-        {
-          "content": "**Investment Strategy: Deploy cash into quality bonds and diversified income strategies to enhance yield and improve income durability; gold is recommended as a hedge against geopolitical risks.",
-          "reason": "The recommendation of gold as a hedge against geopolitical risks indicates a bullish sentiment, as it suggests confidence in gold's protective qualities.",
-          "sentiment score": 1,
-          "sentiment": "Bullish",
-          "source": "UBS",
-          "title": "A close look at this week’s trending topic",
-          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/2025/weekly-deep-dive.onlycontent.html",
-          "date": "2025-06-30"
-        },
-        {
-          "content": "**Gold Market:** Gold prices surged 1.4%, marking the largest increase in six weeks due to haven demand.",
-          "reason": "The significant price surge due to haven demand is a clear bullish indicator for gold's market performance.",
-          "sentiment score": 1,
-          "sentiment": "Bullish",
-          "source": "DBS Bank",
-          "title": "Another steep DXY decline hindered by JPY and EUR uncertainties",
-          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_fx.xml",
-          "date": "2025-07-22"
-        }
-      ]
-    },
-    "Silver": {
-      "asset": "Silver",
-      "overall sentiment": "BUY",
-      "overall sentiment score": 1.0,
-      "summary": "The overall sentiment for Silver is BUY, driven by strong bullish indicators from multiple financial institutions. OCBC, UBS, DBS Bank, and Goldman Sachs all highlight the importance of gold (and by extension, other precious metals like silver) as a defensive asset, a hedge against geopolitical risks, and a key component of diversified, resilient portfolios. Goldman Sachs specifically notes a bullish outlook for gold due to surging central bank demand, which positively influences the sentiment for silver given their correlated market behavior. These factors collectively suggest a favorable environment for silver, positioning it as a strategic investment for capital preservation and growth amidst market uncertainties.",
-      "evidence": [
-        {
-          "content": "**Jean Chia (Global Chief Investment Officer, Bank of Singapore):** A robust asset allocation strategy is essential, emphasizing resilience over precise predictions, with diversification into alternatives and gold for downside protection.",
-          "reason": "The mention of diversification into gold as a protective measure indicates a bullish sentiment towards precious metals, including silver, as a safe haven during uncertain times.",
-          "sentiment score": 1,
-          "sentiment": "bullish",
-          "source": "OCBC",
-          "title": "2025 Supertrends: Rethinking Portfolios, Reimagining the World",
-          "url": "https://www.ocbc.com//premier-banking/market-insights/wealth-insights"
-        },
-        {
-          "content": "**Investment Strategy: Deploy cash into quality bonds and diversified income strategies to enhance yield and improve income durability; gold is recommended as a hedge against geopolitical risks.",
-          "reason": "The recommendation to use gold as a hedge against geopolitical risks suggests a positive outlook for precious metals, including silver, as investors seek safety in uncertain environments.",
-          "sentiment score": 1,
-          "sentiment": "bullish",
-          "source": "UBS",
-          "title": "A close look at this week’s trending topic",
-          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/2025/weekly-deep-dive.onlycontent.html"
-        },
-        {
-          "content": "**DBS (Research Team, DBS Bank):** Advocates for a defensive investment strategy, focusing on alternatives like gold and income-generating private assets to ensure portfolio resilience amid a global shift from US financial asset dominance.",
-          "reason": "The advocacy for gold and alternatives as part of a defensive strategy indicates a bullish sentiment towards precious metals, including silver, as investors seek stability in their portfolios.",
-          "sentiment score": 1,
-          "sentiment": "bullish",
-          "source": "DBS Bank",
-          "title": "Asset Allocation 3Q25 – Everything Everywhere All at Once",
-          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_AA.xml"
-        },
-        {
-          "content": "**Daan Struyven (Co-Head, Global Commodities Research, Head of Oil Research, Goldman Sachs Research):** Remains bullish on gold, expecting it to rise to $4,000 per troy ounce driven by increased central bank demand, which has surged five-fold since 2022. A survey indicates record high purchase intentions among central banks, with none planning to reduce gold holdings in the next year.",
-          "reason": "The bullish outlook on gold, driven by central bank demand, suggests a positive sentiment for silver as well, given their historical correlation as precious metals.",
-          "sentiment score": 1,
-          "sentiment": "bullish",
-          "source": "GoldmanSachs",
-          "title": "Global Income Plays",
-          "url": "https://www.goldmansachs.com/insights/the-markets/global-income-plays"
-        }
-      ]
-    },
-    "Crude Oil": {
-      "asset": "Crude Oil",
-      "overall sentiment": "HOLD",
-      "overall sentiment score": 0.0,
-      "summary": "The overall sentiment for Crude Oil is HOLD, as the average sentiment score from the provided evidence is 0.0. This indicates a balanced outlook with both bullish and bearish factors at play. Bearish factors include geopolitical tensions causing price volatility and expectations of oil prices falling back to lower levels due to a potential Iran-Israel ceasefire, OPEC+ support, and seasonal demand drops. Bullish factors include a potential shift in US energy policy towards being more fossil-fuel friendly, posing upside risks for oil prices, and the stability in oil flow through the Strait of Hormuz due to Iran's muted response and incentives for the US and China. Given these conflicting signals, a HOLD strategy is recommended, suggesting investors maintain their current positions and monitor market developments closely.",
-      "evidence": [
-        {
-          "content": "**Daan Struyven (Co-Head, Global Commodities Research, Head of Oil Research, Goldman Sachs Research):** Geopolitical tensions in the Middle East have caused oil price volatility, with the geopolitical risk premium spiking to over $15 per barrel before dropping to a couple of dollars within 24 hours.",
-          "reason": "The mention of high volatility and a significant geopolitical risk premium suggests uncertainty in the market, which can lead to bearish sentiment as it indicates potential for price drops.",
-          "sentiment score": -1,
-          "sentiment": "bearish",
-          "source": "GoldmanSachs",
-          "title": "Global Income Plays",
-          "url": "https://www.goldmansachs.com/insights/the-markets/global-income-plays",
-          "date": "2025-07-18"
-        },
-        {
-          "content": "**DBS (Research Team, DBS):** Expects a shift in US energy policy to become more fossil-fuel friendly, posing upside risks for oil prices as supply is set to grow.",
-          "reason": "The expectation of a shift towards a more fossil-fuel friendly policy in the US indicates potential for increased demand and higher prices, which is a bullish signal for crude oil.",
-          "sentiment score": 1,
-          "sentiment": "bullish",
-          "source": "DBS Bank",
-          "title": "Asset Allocation - The Era of Big Beautiful Fiscal Excesses",
-          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250708CIOP.xml",
-          "date": "2025-07-08"
-        },
-        {
-          "content": "**Daan Struyven (Co-Head, Global Commodities Research, Head of Oil Research, Goldman Sachs Research):** Iran's muted response and incentives for the US and China to maintain oil flow through the Strait of Hormuz are key to current market dynamics.",
-          "reason": "The stability in oil flow through a critical passage like the Strait of Hormuz, combined with Iran's muted response, suggests a more stable supply environment, which can be interpreted as a bullish factor for crude oil prices.",
-          "sentiment score": 1,
-          "sentiment": "bullish",
-          "source": "GoldmanSachs",
-          "title": "Global Income Plays",
-          "url": "https://www.goldmansachs.com/insights/the-markets/global-income-plays",
-          "date": "2025-07-18"
-        },
-        {
-          "content": "**OCBC Bank (Analyst team, OCBC Bank):** Oil prices are expected to fall back to pre-June 13 levels in the mid-US$60s/barrel if the Iran-Israel ceasefire holds, with Brent oil potentially revisiting US$60/barrel, supported by OPEC+ and seasonal demand drops.",
-          "reason": "The expectation of falling oil prices back to lower levels indicates bearish sentiment, as it suggests a decline in demand or oversupply in the market.",
-          "sentiment score": -1,
-          "sentiment": "bearish",
-          "source": "OCBC",
-          "title": "Back to fundamentals after geopolitical tensions ease",
-          "url": "https://www.ocbc.com//premier-banking/market-insights/fx-and-commodities",
-          "date": "2025-07-01"
-        }
-      ]
-    }
-  },
-  "Blockchain": {
-    "Cryptocurrency": {
-      "asset": "Cryptocurrency",
-      "overall sentiment": "",
-      "overall sentiment score": null,
-      "summary": "No information relates to the asset found",
-      "evidence": []
-    }
-  },
   "U.S. Assets": {
     "U.S. Stock": {
       "asset": "U.S. Stock",
@@ -1904,6 +1703,198 @@
           "title": "Markets await more trade news after US-Vietnam deal",
           "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-03072025.onlycontent.html",
           "date": "2025-07-03"
+        }
+      ]
+    }
+  },
+  "Commodities": {
+    "Gold": {
+      "asset": "Gold",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 0.8888888888888888,
+      "summary": "The overall sentiment for Gold is strongly bullish, indicating a 'BUY' recommendation. This assessment is based on multiple pieces of evidence highlighting Gold's role as a safe-haven asset, a long-term portfolio diversifier, and a central component in investment strategies amidst geopolitical and economic uncertainties. Several sources anticipate increased demand and record prices for Gold due to factors such as persistent inflation, geopolitical shifts, and de-dollarization. The recent surge in Gold prices due to haven demand further reinforces this positive outlook. Investors are advised to consider Gold for portfolio resilience and as a hedge against various risks.",
+      "evidence": [
+        {
+          "content": "Willem Sels (Unknown Role, HSBC): Diversification has proven effective; bonds and gold benefited from safe-haven flows while equities declined, and the US dollar maintained its safe-haven status despite concerns over deficits.",
+          "reason": "The mention of gold benefiting from safe-haven flows indicates a bullish outlook, as it suggests increased demand for gold during times of market uncertainty.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "HSBC",
+          "title": "Lessons from the conflict: building resilience through diversification is key,and it works – Monthly View – July 2025",
+          "url": "https://www.privatebanking.hsbc.com/content/dam/privatebanking/gpb/video-transcripts/monthly-view/2025/monthly-view-july-2025-transcript.pdf",
+          "date": "2025-06-26"
+        },
+        {
+          "content": "Financial Analyst (unspecified publication): Investors in gold-related assets (ETFs, mutual funds) should assess gold's recent and longer-term performance, emphasizing the importance of understanding risks associated with these investments.",
+          "reason": "While this content highlights the need for risk assessment, it does not present a clear bullish or bearish sentiment, making it neutral regarding gold's future performance.",
+          "sentiment score": 0,
+          "sentiment": "Neutral",
+          "source": "Citibank",
+          "title": "What role might gold play in portfolios?",
+          "url": "https://www.privatebank.citibank.com/insights/what-role-might-gold-play-in-portfolios",
+          "date": "2025-07-07"
+        },
+        {
+          "content": "Gold is viewed as a long-term portfolio diversifier amid fiscal and geopolitical risks, with a year-end target of USD 3,500/oz.",
+          "reason": "The positive price target and characterization of gold as a diversifier amid risks suggest a bullish sentiment towards gold's future performance.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "UBS",
+          "title": "Gold Market (Investment Analysts, Gold Market)",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2025/latest-04072025.onlycontent.html",
+          "date": "2025-07-04"
+        },
+        {
+          "content": "Gold and technology equities are central to investment strategies, alongside investment-grade credit for income.",
+          "reason": "The emphasis on gold as a central component of investment strategies indicates a bullish outlook for its role in portfolios.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "CIO Insights 3Q25: The Global Pivot",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/062025/CIOInsights3Q25.xml",
+          "date": "2025-06-26"
+        },
+        {
+          "content": "DBS (Analyst team, DBS): Gold is anticipated to gain traction as a safe-haven asset amid rising geopolitical uncertainty, with short-term demand driven by this uncertainty and long-term appeal bolstered by de-dollarization and fiat currency debasement.",
+          "reason": "The expectation of increased demand for gold due to geopolitical uncertainty and economic factors presents a strong bullish sentiment.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Thematic 3Q25 - New World Order",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_Thematic.xml",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**Jean Chia (Global Chief Investment Officer, Bank of Singapore):** Expect persistent inflation, higher interest rates, a weaker USD, record gold prices, and increased demand for safe-haven assets over the next five to ten years due to geopolitical shifts.",
+          "reason": "The forecast of record gold prices and increased demand due to inflation and geopolitical shifts indicates a very bullish sentiment for gold.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "OCBC",
+          "title": "2025 Supertrends: Rethinking Portfolios, Reimagining the World",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/wealth-insights",
+          "date": "2025-07-01"
+        },
+        {
+          "content": "**DBS (Research Team, DBS Bank):** Advocates for a defensive investment strategy, focusing on alternatives like gold and income-generating private assets to ensure portfolio resilience amid a global shift from US financial asset dominance.",
+          "reason": "The advocacy for gold as part of a defensive investment strategy suggests a bullish sentiment towards its role in maintaining portfolio resilience.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Asset Allocation 3Q25 – Everything Everywhere All at Once",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_AA.xml",
+          "date": "2025-07-04"
+        },
+        {
+          "content": "**Investment Strategy: Deploy cash into quality bonds and diversified income strategies to enhance yield and improve income durability; gold is recommended as a hedge against geopolitical risks.",
+          "reason": "The recommendation of gold as a hedge against geopolitical risks indicates a bullish sentiment, as it suggests confidence in gold's protective qualities.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "UBS",
+          "title": "A close look at this week’s trending topic",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/2025/weekly-deep-dive.onlycontent.html",
+          "date": "2025-06-30"
+        },
+        {
+          "content": "**Gold Market:** Gold prices surged 1.4%, marking the largest increase in six weeks due to haven demand.",
+          "reason": "The significant price surge due to haven demand is a clear bullish indicator for gold's market performance.",
+          "sentiment score": 1,
+          "sentiment": "Bullish",
+          "source": "DBS Bank",
+          "title": "Another steep DXY decline hindered by JPY and EUR uncertainties",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/GR/macro_strategy/072025/250722_fx.xml",
+          "date": "2025-07-22"
+        }
+      ]
+    },
+    "Silver": {
+      "asset": "Silver",
+      "overall sentiment": "BUY",
+      "overall sentiment score": 1.0,
+      "summary": "The overall sentiment for Silver is BUY, driven by strong bullish indicators from multiple financial institutions. OCBC, UBS, DBS Bank, and Goldman Sachs all highlight the importance of gold (and by extension, other precious metals like silver) as a defensive asset, a hedge against geopolitical risks, and a key component of diversified, resilient portfolios. Goldman Sachs specifically notes a bullish outlook for gold due to surging central bank demand, which positively influences the sentiment for silver given their correlated market behavior. These factors collectively suggest a favorable environment for silver, positioning it as a strategic investment for capital preservation and growth amidst market uncertainties.",
+      "evidence": [
+        {
+          "content": "**Jean Chia (Global Chief Investment Officer, Bank of Singapore):** A robust asset allocation strategy is essential, emphasizing resilience over precise predictions, with diversification into alternatives and gold for downside protection.",
+          "reason": "The mention of diversification into gold as a protective measure indicates a bullish sentiment towards precious metals, including silver, as a safe haven during uncertain times.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "OCBC",
+          "title": "2025 Supertrends: Rethinking Portfolios, Reimagining the World",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/wealth-insights"
+        },
+        {
+          "content": "**Investment Strategy: Deploy cash into quality bonds and diversified income strategies to enhance yield and improve income durability; gold is recommended as a hedge against geopolitical risks.",
+          "reason": "The recommendation to use gold as a hedge against geopolitical risks suggests a positive outlook for precious metals, including silver, as investors seek safety in uncertain environments.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "UBS",
+          "title": "A close look at this week’s trending topic",
+          "url": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/2025/weekly-deep-dive.onlycontent.html"
+        },
+        {
+          "content": "**DBS (Research Team, DBS Bank):** Advocates for a defensive investment strategy, focusing on alternatives like gold and income-generating private assets to ensure portfolio resilience amid a global shift from US financial asset dominance.",
+          "reason": "The advocacy for gold and alternatives as part of a defensive strategy indicates a bullish sentiment towards precious metals, including silver, as investors seek stability in their portfolios.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Asset Allocation 3Q25 – Everything Everywhere All at Once",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/CIOInsights3Q25_AA.xml"
+        },
+        {
+          "content": "**Daan Struyven (Co-Head, Global Commodities Research, Head of Oil Research, Goldman Sachs Research):** Remains bullish on gold, expecting it to rise to $4,000 per troy ounce driven by increased central bank demand, which has surged five-fold since 2022. A survey indicates record high purchase intentions among central banks, with none planning to reduce gold holdings in the next year.",
+          "reason": "The bullish outlook on gold, driven by central bank demand, suggests a positive sentiment for silver as well, given their historical correlation as precious metals.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "GoldmanSachs",
+          "title": "Global Income Plays",
+          "url": "https://www.goldmansachs.com/insights/the-markets/global-income-plays"
+        }
+      ]
+    },
+    "Crude Oil": {
+      "asset": "Crude Oil",
+      "overall sentiment": "HOLD",
+      "overall sentiment score": 0.0,
+      "summary": "The overall sentiment for Crude Oil is HOLD, as the average sentiment score from the provided evidence is 0.0. This indicates a balanced outlook with both bullish and bearish factors at play. Bearish factors include geopolitical tensions causing price volatility and expectations of oil prices falling back to lower levels due to a potential Iran-Israel ceasefire, OPEC+ support, and seasonal demand drops. Bullish factors include a potential shift in US energy policy towards being more fossil-fuel friendly, posing upside risks for oil prices, and the stability in oil flow through the Strait of Hormuz due to Iran's muted response and incentives for the US and China. Given these conflicting signals, a HOLD strategy is recommended, suggesting investors maintain their current positions and monitor market developments closely.",
+      "evidence": [
+        {
+          "content": "**Daan Struyven (Co-Head, Global Commodities Research, Head of Oil Research, Goldman Sachs Research):** Geopolitical tensions in the Middle East have caused oil price volatility, with the geopolitical risk premium spiking to over $15 per barrel before dropping to a couple of dollars within 24 hours.",
+          "reason": "The mention of high volatility and a significant geopolitical risk premium suggests uncertainty in the market, which can lead to bearish sentiment as it indicates potential for price drops.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "GoldmanSachs",
+          "title": "Global Income Plays",
+          "url": "https://www.goldmansachs.com/insights/the-markets/global-income-plays",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**DBS (Research Team, DBS):** Expects a shift in US energy policy to become more fossil-fuel friendly, posing upside risks for oil prices as supply is set to grow.",
+          "reason": "The expectation of a shift towards a more fossil-fuel friendly policy in the US indicates potential for increased demand and higher prices, which is a bullish signal for crude oil.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "DBS Bank",
+          "title": "Asset Allocation - The Era of Big Beautiful Fiscal Excesses",
+          "url": "https://www.dbs.com.sg/private-banking/aics/archive/templatedata/article/generic/data/en/CIO/072025/250708CIOP.xml",
+          "date": "2025-07-08"
+        },
+        {
+          "content": "**Daan Struyven (Co-Head, Global Commodities Research, Head of Oil Research, Goldman Sachs Research):** Iran's muted response and incentives for the US and China to maintain oil flow through the Strait of Hormuz are key to current market dynamics.",
+          "reason": "The stability in oil flow through a critical passage like the Strait of Hormuz, combined with Iran's muted response, suggests a more stable supply environment, which can be interpreted as a bullish factor for crude oil prices.",
+          "sentiment score": 1,
+          "sentiment": "bullish",
+          "source": "GoldmanSachs",
+          "title": "Global Income Plays",
+          "url": "https://www.goldmansachs.com/insights/the-markets/global-income-plays",
+          "date": "2025-07-18"
+        },
+        {
+          "content": "**OCBC Bank (Analyst team, OCBC Bank):** Oil prices are expected to fall back to pre-June 13 levels in the mid-US$60s/barrel if the Iran-Israel ceasefire holds, with Brent oil potentially revisiting US$60/barrel, supported by OPEC+ and seasonal demand drops.",
+          "reason": "The expectation of falling oil prices back to lower levels indicates bearish sentiment, as it suggests a decline in demand or oversupply in the market.",
+          "sentiment score": -1,
+          "sentiment": "bearish",
+          "source": "OCBC",
+          "title": "Back to fundamentals after geopolitical tensions ease",
+          "url": "https://www.ocbc.com//premier-banking/market-insights/fx-and-commodities",
+          "date": "2025-07-01"
         }
       ]
     }
