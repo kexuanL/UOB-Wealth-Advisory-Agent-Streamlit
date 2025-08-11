@@ -155,8 +155,8 @@ elif PAGE == 'Investment Direction Agent:Score':
     pos_norm = plt.Normalize(0, pos.max() if not pos.empty else 1)
     neg_norm = plt.Normalize(0, abs(neg.min()) if not neg.empty else 1)
     df['color'] = df.score.apply(
-        lambda v: cm.Reds(pos_norm(v)) if v > 0 else
-                  cm.Greens(neg_norm(abs(v))) if v < 0 else
+        lambda v: cm.Greens(pos_norm(v)) if v > 0 else
+                  cm.Reds(neg_norm(abs(v))) if v < 0 else
                   (0.5,0.5,0.5,1)
     )
 
