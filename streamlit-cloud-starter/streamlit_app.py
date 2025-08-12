@@ -85,7 +85,7 @@ if PAGE == 'Article Inventory':
                       border-radius:1.4rem;padding:2rem;margin-bottom:1.5rem;
                       text-align:center;box-shadow:0 8px 18px rgba(0,0,0,.06)">
                  <h1 style="margin:.2rem 0">🗂️ Article Inventory</h1>
-                 <p><b>Total summaries:</b>
+                 <p><b>Total Articles:</b>
                     <span style="font-size:1.6rem;font-weight:800;color:#1f77b4">{total:,}</span></p>
                  {span}
            </div>'''.format(total=total, span=span),
